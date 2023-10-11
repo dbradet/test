@@ -1,0 +1,1838 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rdi.news.ca" tvg-name="ICI RDI" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" group-title="Quebec WEB",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+
+#EXTINF:-1 tvg-id="ici.cbft.montreal.qc.ca" tvg-name="ICI Alberta" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9-HD.png" group-title="Quebec WEB",ICI Alberta
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
+
+#EXTINF:-1 tvg-id="ici.cbft.montreal.qc.ca" tvg-name="ICI CB-Yukon" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9-HD.png" group-title="Quebec WEB",ICI CB-Yukon
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
+
+#EXTINF:-1 tvg-id="ici.cbft.montreal.qc.ca" tvg-name="ICI Montreal" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9-HD.png" group-title="Quebec WEB",ICI Montreal
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="ici.cbft.montreal.qc.ca" tvg-name="ICI Ontario" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9-HD.png" group-title="Quebec WEB",ICI Ontario
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
+
+#EXTINF:-1 tvg-id="ici.cbft.montreal.qc.ca" tvg-name="ICI Quebec" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9-HD.png" group-title="Quebec WEB",ICI Quebec
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
+
+#EXTINF:-1 tvg-id="ici.cbft.montreal.qc.ca" tvg-name="ICI Saskatchewan" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9-HD.png" group-title="Quebec WEB",ICI Saskatchewan
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
+
+#EXTINF:-1 tvg-id="ici.cbft.montreal.qc.ca" tvg-name="ICI Sherbrooke" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9-HD.png" group-title="Quebec WEB",ICI Sherbrooke
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
+
+#EXTINF:-1 tvg-id="v.cfjp.montreal.qc.ca" tvg-name="NOOVO Montreal" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2019/04/noovo.png" group-title="Quebec WEB",NOOVO Montreal
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+
+#EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-name="Tele Quebec" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/T%C3%A9l%C3%A9-Qu%C3%A9bec.png" group-title="Quebec WEB",Tele Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="Quebec WEB",Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="Quebec WEB",Canal Savoir
+http://clientarea.ltd:2052/110038/110038/29829
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/addik-tv.png" group-title="Quebec WEB",ADDIK TV
+http://clientarea.ltd:2052/110038/110038/29831
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-D.png" group-title="Quebec WEB",CANAL D
+http://clientarea.ltd:2052/110038/110038/29828
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/z-tele-hd.jpeg" group-title="Quebec WEB",Z TELE
+http://clientarea.ltd:2052/110038/110038/29826
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Cinepop_logo.png" group-title="Quebec WEB",CINE POP
+http://clientarea.ltd:2052/110038/110038/29808
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/Zeste.png" group-title="Quebec WEB",ZESTE
+http://clientarea.ltd:2052/110038/110038/29804
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA-Sports.png" group-title="Quebec WEB",TVA SPORTS 1
+http://clientarea.ltd:2052/110038/110038/29803
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/LCN.png" group-title="Quebec WEB",LCN
+http://clientarea.ltd:2052/110038/110038/29795
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="Quebec WEB",CPAC
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/207.png" group-title="NeoTV France",TF1 HD
+http://vvn.neoredi.com/iptv/ch207?code=350151895081936&key=48820
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/208.png" group-title="NeoTV France",M6 HD
+http://vvn.neoredi.com/iptv/ch208?code=350151895081936&key=13560
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/258.png" group-title="NeoTV France",TF1 Serie Film
+http://vvn.neoredi.com/iptv/ch258?code=350151895081936&key=53028
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/262.png" group-title="NeoTV France",6 Ter HD
+http://vvn.neoredi.com/iptv/ch262?code=350151895081936&key=27580
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/209.png" group-title="NeoTV France",France 2 HD
+http://vvn.neoredi.com/iptv/ch209?code=350151895081936&key=19356
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/210.png" group-title="NeoTV France",France 3 HD
+http://vvn.neoredi.com/iptv/ch210?code=350151895081936&key=16033
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/219.png" group-title="NeoTV France",France 4
+http://vvn.neoredi.com/iptv/ch219?code=350151895081936&key=59771
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/211.png" group-title="NeoTV France",France 5
+http://vvn.neoredi.com/iptv/ch211?code=350151895081936&key=62287
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/212.png" group-title="NeoTV France",France O
+http://vvn.neoredi.com/iptv/ch212?code=350151895081936&key=49662
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/220.png" group-title="NeoTV France",W9 HD
+http://vvn.neoredi.com/iptv/ch220?code=350151895081936&key=22672
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1114.png" group-title="NeoTV France",Nouvelle Aquitaine
+http://vvn.neoredi.com/iptv/ch1114?code=350151895081936&key=19962
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1112.png" group-title="NeoTV France",Via Vosges
+http://vvn.neoredi.com/iptv/ch1112?code=350151895081936&key=32381
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1111.png" group-title="NeoTV France",Via Stella
+http://vvn.neoredi.com/iptv/ch1111?code=350151895081936&key=63995
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1110.png" group-title="NeoTV France",Dici Tv
+http://vvn.neoredi.com/iptv/ch1110?code=350151895081936&key=29316
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1115.png" group-title="NeoTV France",A La Maison
+http://vvn.neoredi.com/iptv/ch1115?code=350151895081936&key=19896
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/388.png" group-title="NeoTV France",J-One HD
+http://vvn.neoredi.com/iptv/ch388?code=350151895081936&key=23366
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/374.png" group-title="NeoTV France",My Cuisine TV
+http://vvn.neoredi.com/iptv/ch374?code=350151895081936&key=45061
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/392.png" group-title="NeoTV France",E. Fr
+http://vvn.neoredi.com/iptv/ch392?code=350151895081936&key=39602
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/272.png" group-title="NeoTV France",Non Stop People Fr.
+http://vvn.neoredi.com/iptv/ch272?code=350151895081936&key=22624
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/226.png" group-title="NeoTV France",OCS Choc HD
+http://vvn.neoredi.com/iptv/ch226?code=350151895081936&key=31140
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/259.png" group-title="NeoTV France",OCS City HD
+http://vvn.neoredi.com/iptv/ch259?code=350151895081936&key=64490
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/394.png" group-title="NeoTV France",OCS Geant HD
+http://vvn.neoredi.com/iptv/ch394?code=350151895081936&key=13740
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/393.png" group-title="NeoTV France",OCS Max HD
+http://vvn.neoredi.com/iptv/ch393?code=350151895081936&key=25398
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/741.png" group-title="NeoTV France",Cine + Emotion HD
+http://vvn.neoredi.com/iptv/ch741?code=350151895081936&key=61597
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/270.png" group-title="NeoTV France",Cine Frisson HD
+http://vvn.neoredi.com/iptv/ch270?code=350151895081936&key=24445
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/288.png" group-title="NeoTV France",Cine Famiz
+http://vvn.neoredi.com/iptv/ch288?code=350151895081936&key=34963
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/275.png" group-title="NeoTV France",Cine Premiere
+http://vvn.neoredi.com/iptv/ch275?code=350151895081936&key=41481
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/200.png" group-title="NeoTV France",Canal+
+http://vvn.neoredi.com/iptv/ch200?code=350151895081936&key=41454
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/201.png" group-title="NeoTV France",Canal+ Cinema
+http://vvn.neoredi.com/iptv/ch201?code=350151895081936&key=16893
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/204.png" group-title="NeoTV France",Canal+ Family
+http://vvn.neoredi.com/iptv/ch204?code=350151895081936&key=22965
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/202.png" group-title="NeoTV France",Canal+ Sport
+http://vvn.neoredi.com/iptv/ch202?code=350151895081936&key=27914
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/203.png" group-title="NeoTV France",Canal+ Decale
+http://vvn.neoredi.com/iptv/ch203?code=350151895081936&key=31239
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/205.png" group-title="NeoTV France",Canal+ series HD
+http://vvn.neoredi.com/iptv/ch205?code=350151895081936&key=59204
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1113.png" group-title="NeoTV France",TCM FR
+http://vvn.neoredi.com/iptv/ch1113?code=350151895081936&key=46994
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/271.png" group-title="NeoTV France",Action HD
+http://vvn.neoredi.com/iptv/ch271?code=350151895081936&key=32810
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1108.png" group-title="NeoTV France",Paramount ch. FR
+http://vvn.neoredi.com/iptv/ch1108?code=350151895081936&key=22070
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/286.png" group-title="NeoTV France",Polar Plus FR
+http://vvn.neoredi.com/iptv/ch286?code=350151895081936&key=31372
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/285.png" group-title="NeoTV France",Warner TV FR
+http://vvn.neoredi.com/iptv/ch285?code=350151895081936&key=47098
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/233.png" group-title="NeoTV France",Serie Club HD
+http://vvn.neoredi.com/iptv/ch233?code=350151895081936&key=52324
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/256.png" group-title="NeoTV France",13 eme Rue
+http://vvn.neoredi.com/iptv/ch256?code=350151895081936&key=27281
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/251.png" group-title="NeoTV France",Tv Breizh
+http://vvn.neoredi.com/iptv/ch251?code=350151895081936&key=23678
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/4207.png" group-title="NeoTV France",TF1 HD +4
+http://vvn.neoredi.com/iptv/ch4207?code=350151895081936&key=55646
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/4209.png" group-title="NeoTV France",France 2 HD +4
+http://vvn.neoredi.com/iptv/ch4209?code=350151895081936&key=22484
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/4208.png" group-title="NeoTV France",M6 HD +4
+http://vvn.neoredi.com/iptv/ch4208?code=350151895081936&key=50628
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/4220.png" group-title="NeoTV France",W9 HD +4
+http://vvn.neoredi.com/iptv/ch4220?code=350151895081936&key=49256
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/282.png" group-title="NeoTV France",RTL 9
+http://vvn.neoredi.com/iptv/ch282?code=350151895081936&key=45295
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/284.png" group-title="NeoTV France",AB 1
+http://vvn.neoredi.com/iptv/ch284?code=350151895081936&key=10741
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1652.png" group-title="NeoTV France",AB 3
+http://vvn.neoredi.com/iptv/ch1652?code=350151895081936&key=23920
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/230.png" group-title="NeoTV France",TEVA HD
+http://vvn.neoredi.com/iptv/ch230?code=350151895081936&key=40113
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1297.png" group-title="NeoTV France",Viceland Fr.
+http://vvn.neoredi.com/iptv/ch1297?code=350151895081936&key=18883
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1298.png" group-title="NeoTV France",Seasons Fr.
+http://vvn.neoredi.com/iptv/ch1298?code=350151895081936&key=15742
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/390.png" group-title="NeoTV France",Crime District Fr.
+http://vvn.neoredi.com/iptv/ch390?code=350151895081936&key=12893
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/380.png" group-title="NeoTV France",01 TV HD
+http://vvn.neoredi.com/iptv/ch380?code=350151895081936&key=54296
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/242.png" group-title="NeoTV France",Ushuaia TV HD
+http://vvn.neoredi.com/iptv/ch242?code=350151895081936&key=55435
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/235.png" group-title="NeoTV France",NAT GEO HD Fr.
+http://vvn.neoredi.com/iptv/ch235?code=350151895081936&key=30116
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/238.png" group-title="NeoTV France",NATGEO WILD HD Fr.
+http://vvn.neoredi.com/iptv/ch238?code=350151895081936&key=47992
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/234.png" group-title="NeoTV France",Planete Plus HD
+http://vvn.neoredi.com/iptv/ch234?code=350151895081936&key=28070
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/225.png" group-title="NeoTV France",Planete Plus AE HD
+http://vvn.neoredi.com/iptv/ch225?code=350151895081936&key=28515
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/287.png" group-title="NeoTV France",Planete Plus CI HD
+http://vvn.neoredi.com/iptv/ch287?code=350151895081936&key=23540
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/236.png" group-title="NeoTV France",Voyage Fr.
+http://vvn.neoredi.com/iptv/ch236?code=350151895081936&key=50655
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/379.png" group-title="NeoTV France",Discovery Family HD Fr.
+http://vvn.neoredi.com/iptv/ch379?code=350151895081936&key=28762
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/229.png" group-title="NeoTV France",Discovery Science HD Fr.
+http://vvn.neoredi.com/iptv/ch229?code=350151895081936&key=45920
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/241.png" group-title="NeoTV France",Discovery Show Case Fr.
+http://vvn.neoredi.com/iptv/ch241?code=350151895081936&key=63429
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/249.png" group-title="NeoTV France",Discovery ID Fr.
+http://vvn.neoredi.com/iptv/ch249?code=350151895081936&key=47133
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/739.png" group-title="NeoTV France",RMC Decouverte
+http://vvn.neoredi.com/iptv/ch739?code=350151895081936&key=25622
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1116.png" group-title="NeoTV France",Toute Histoire
+http://vvn.neoredi.com/iptv/ch1116?code=350151895081936&key=50713
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/280.png" group-title="NeoTV France",Histoire
+http://vvn.neoredi.com/iptv/ch280?code=350151895081936&key=34746
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/247.png" group-title="NeoTV France",RMC Story
+http://vvn.neoredi.com/iptv/ch247?code=350151895081936&key=14090
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/283.png" group-title="NeoTV France",Chasse et Peche
+http://vvn.neoredi.com/iptv/ch283?code=350151895081936&key=33420
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/279.png" group-title="NeoTV France",Trek
+http://vvn.neoredi.com/iptv/ch279?code=350151895081936&key=61679
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/278.png" group-title="NeoTV France",Sciences et vie
+http://vvn.neoredi.com/iptv/ch278?code=350151895081936&key=14796
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/277.png" group-title="NeoTV France",Animaux
+http://vvn.neoredi.com/iptv/ch277?code=350151895081936&key=38050
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/264.png" group-title="NeoTV France",Comedie
+http://vvn.neoredi.com/iptv/ch264?code=350151895081936&key=16390
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/223.png" group-title="NeoTV France",C-8
+http://vvn.neoredi.com/iptv/ch223?code=350151895081936&key=42190
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/214.png" group-title="NeoTV France",NRJ 12
+http://vvn.neoredi.com/iptv/ch214?code=350151895081936&key=49887
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/228.png" group-title="NeoTV France",C-Star
+http://vvn.neoredi.com/iptv/ch228?code=350151895081936&key=35335
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/267.png" group-title="NeoTV France",Equipe 21
+http://vvn.neoredi.com/iptv/ch267?code=350151895081936&key=15182
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/248.png" group-title="NeoTV France",Cherie 25
+http://vvn.neoredi.com/iptv/ch248?code=350151895081936&key=56859
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/237.png" group-title="NeoTV France",SYFY HD
+http://vvn.neoredi.com/iptv/ch237?code=350151895081936&key=18177
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/213.png" group-title="NeoTV France",TFX
+http://vvn.neoredi.com/iptv/ch213?code=350151895081936&key=37220
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/217.png" group-title="NeoTV France",TMC
+http://vvn.neoredi.com/iptv/ch217?code=350151895081936&key=29588
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/274.png" group-title="NeoTV France",Paris Premiere
+http://vvn.neoredi.com/iptv/ch274?code=350151895081936&key=25307
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/216.png" group-title="NeoTV France",ARTE
+http://vvn.neoredi.com/iptv/ch216?code=350151895081936&key=47777
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/292.png" group-title="NeoTV France",France Info
+http://vvn.neoredi.com/iptv/ch292?code=350151895081936&key=16303
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1117.png" group-title="NeoTV France",RT Fr
+http://vvn.neoredi.com/iptv/ch1117?code=350151895081936&key=37365
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1118.png" group-title="NeoTV France",EuroNews
+http://vvn.neoredi.com/iptv/ch1118?code=350151895081936&key=11600
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/299.png" group-title="NeoTV France",C-News
+http://vvn.neoredi.com/iptv/ch299?code=350151895081936&key=34452
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1646.png" group-title="NeoTV France",I24 Fr.
+http://vvn.neoredi.com/iptv/ch1646?code=350151895081936&key=42415
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/298.png" group-title="NeoTV France",LCI
+http://vvn.neoredi.com/iptv/ch298?code=350151895081936&key=64754
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/218.png" group-title="NeoTV France",BFM TV
+http://vvn.neoredi.com/iptv/ch218?code=350151895081936&key=42620
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/375.png" group-title="NeoTV France",BFM Paris
+http://vvn.neoredi.com/iptv/ch375?code=350151895081936&key=52227
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/263.png" group-title="NeoTV France",BFM Business
+http://vvn.neoredi.com/iptv/ch263?code=350151895081936&key=46630
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/245.png" group-title="NeoTV France",LCP
+http://vvn.neoredi.com/iptv/ch245?code=350151895081936&key=30297
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1653.png" group-title="NeoTV France",Mezzo Fr.
+http://vvn.neoredi.com/iptv/ch1653?code=350151895081936&key=22716
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1650.png" group-title="NeoTV France",RFM Fr.
+http://vvn.neoredi.com/iptv/ch1650?code=350151895081936&key=22386
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1107.png" group-title="NeoTV France",MCM HD
+http://vvn.neoredi.com/iptv/ch1107?code=350151895081936&key=21531
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/293.png" group-title="NeoTV France",Melody Fr.
+http://vvn.neoredi.com/iptv/ch293?code=350151895081936&key=27292
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/224.png" group-title="NeoTV France",MTV FR
+http://vvn.neoredi.com/iptv/ch224?code=350151895081936&key=38068
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/246.png" group-title="NeoTV France",MTV Hits
+http://vvn.neoredi.com/iptv/ch246?code=350151895081936&key=64295
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1449.png" group-title="NeoTV France",MTV Dance
+http://vvn.neoredi.com/iptv/ch1449?code=350151895081936&key=60371
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1470.png" group-title="NeoTV France",MTV Rock
+http://vvn.neoredi.com/iptv/ch1470?code=350151895081936&key=55289
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1471.png" group-title="NeoTV France",M6 Music
+http://vvn.neoredi.com/iptv/ch1471?code=350151895081936&key=37607
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/395.png" group-title="NeoTV France",Piwi Fr.
+http://vvn.neoredi.com/iptv/ch395?code=350151895081936&key=53164
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/391.png" group-title="NeoTV France",Toonami
+http://vvn.neoredi.com/iptv/ch391?code=350151895081936&key=46055
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1106.png" group-title="NeoTV France",Game one
+http://vvn.neoredi.com/iptv/ch1106?code=350151895081936&key=37008
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/273.png" group-title="NeoTV France",Boomerang FR
+http://vvn.neoredi.com/iptv/ch273?code=350151895081936&key=58029
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1645.png" group-title="NeoTV France",Boing FR
+http://vvn.neoredi.com/iptv/ch1645?code=350151895081936&key=27157
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/289.png" group-title="NeoTV France",Tiji FR
+http://vvn.neoredi.com/iptv/ch289?code=350151895081936&key=42962
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/260.png" group-title="NeoTV France",Canal J
+http://vvn.neoredi.com/iptv/ch260?code=350151895081936&key=37270
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/281.png" group-title="NeoTV France",Mangas
+http://vvn.neoredi.com/iptv/ch281?code=350151895081936&key=57870
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/240.png" group-title="NeoTV France",Cartoon Network
+http://vvn.neoredi.com/iptv/ch240?code=350151895081936&key=54443
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/222.png" group-title="NeoTV France",Gulli
+http://vvn.neoredi.com/iptv/ch222?code=350151895081936&key=23284
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/276.png" group-title="NeoTV France",Teletoon
+http://vvn.neoredi.com/iptv/ch276?code=350151895081936&key=52943
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/265.png" group-title="NeoTV France",Disney Ch. FR
+http://vvn.neoredi.com/iptv/ch265?code=350151895081936&key=46177
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1270.png" group-title="NeoTV France",Disney Plus FR
+http://vvn.neoredi.com/iptv/ch1270?code=350151895081936&key=46852
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/257.png" group-title="NeoTV France",Disney Junior FR
+http://vvn.neoredi.com/iptv/ch257?code=350151895081936&key=59951
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1272.png" group-title="NeoTV France",Nickelodeon Jr. FR
+http://vvn.neoredi.com/iptv/ch1272?code=350151895081936&key=11847
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1271.png" group-title="NeoTV France",Nickelodeon FR
+http://vvn.neoredi.com/iptv/ch1271?code=350151895081936&key=56832
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1654.png" group-title="NeoTV France",Bet Fr.
+http://vvn.neoredi.com/iptv/ch1654?code=350151895081936&key=55189
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/269.png" group-title="NeoTV France",Equidia Live
+http://vvn.neoredi.com/iptv/ch269?code=350151895081936&key=28124
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/268.png" group-title="NeoTV France",Auto Moto
+http://vvn.neoredi.com/iptv/ch268?code=350151895081936&key=22323
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1299.png" group-title="NeoTV France",Golf Plus FR
+http://vvn.neoredi.com/iptv/ch1299?code=350151895081936&key=39511
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/290.png" group-title="NeoTV France",Golf Channel FR
+http://vvn.neoredi.com/iptv/ch290?code=350151895081936&key=34243
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/743.png" group-title="NeoTV France",EuroSport 1 HD
+http://vvn.neoredi.com/iptv/ch743?code=350151895081936&key=18765
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/744.png" group-title="NeoTV France",EuroSport 2 HD
+http://vvn.neoredi.com/iptv/ch744?code=350151895081936&key=60424
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/266.png" group-title="NeoTV France",Foot Plus
+http://vvn.neoredi.com/iptv/ch266?code=350151895081936&key=49319
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/250.png" group-title="NeoTV France",Infosport HD
+http://vvn.neoredi.com/iptv/ch250?code=350151895081936&key=22237
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/244.png" group-title="NeoTV France",RMC News HD
+http://vvn.neoredi.com/iptv/ch244?code=350151895081936&key=31922
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1648.png" group-title="NeoTV France",Eleven Sport 1 Fr.
+http://vvn.neoredi.com/iptv/ch1648?code=350151895081936&key=47779
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1649.png" group-title="NeoTV France",Eleven Sport 2 Fr.
+http://vvn.neoredi.com/iptv/ch1649?code=350151895081936&key=36687
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/255.png" group-title="NeoTV France",RMC Sport 1 HD
+http://vvn.neoredi.com/iptv/ch255?code=350151895081936&key=17207
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/253.png" group-title="NeoTV France",RMC Sport 2 HD
+http://vvn.neoredi.com/iptv/ch253?code=350151895081936&key=19234
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/254.png" group-title="NeoTV France",RMC Sport 3 HD
+http://vvn.neoredi.com/iptv/ch254?code=350151895081936&key=10599
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/243.png" group-title="NeoTV France",RMC Sport 4 HD
+http://vvn.neoredi.com/iptv/ch243?code=350151895081936&key=60136
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1440.png" group-title="NeoTV France",RMC Sport 5 HD
+http://vvn.neoredi.com/iptv/ch1440?code=350151895081936&key=28897
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1441.png" group-title="NeoTV France",RMC Sport 6 HD
+http://vvn.neoredi.com/iptv/ch1441?code=350151895081936&key=59046
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1442.png" group-title="NeoTV France",RMC Sport 7 HD
+http://vvn.neoredi.com/iptv/ch1442?code=350151895081936&key=30758
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1443.png" group-title="NeoTV France",RMC Sport 8 HD
+http://vvn.neoredi.com/iptv/ch1443?code=350151895081936&key=34288
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1444.png" group-title="NeoTV France",RMC Sport 9 HD
+http://vvn.neoredi.com/iptv/ch1444?code=350151895081936&key=53520
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1445.png" group-title="NeoTV France",RMC Sport 10 HD
+http://vvn.neoredi.com/iptv/ch1445?code=350151895081936&key=23985
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1446.png" group-title="NeoTV France",RMC Sport 11 HD
+http://vvn.neoredi.com/iptv/ch1446?code=350151895081936&key=14927
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1447.png" group-title="NeoTV France",RMC Sport 12 HD
+http://vvn.neoredi.com/iptv/ch1447?code=350151895081936&key=18265
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1448.png" group-title="NeoTV France",RMC Sport 13 HD
+http://vvn.neoredi.com/iptv/ch1448?code=350151895081936&key=41433
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9001.png" group-title="NeoTV France",Telefoot HD
+http://vvn.neoredi.com/iptv/ch9001?code=350151895081936&key=57992
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9002.png" group-title="NeoTV France",Telefoot Stadium 1 HD
+http://vvn.neoredi.com/iptv/ch9002?code=350151895081936&key=44330
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9003.png" group-title="NeoTV France",Telefoot Stadium 2 HD
+http://vvn.neoredi.com/iptv/ch9003?code=350151895081936&key=55020
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9004.png" group-title="NeoTV France",Telefoot Stadium 3 HD
+http://vvn.neoredi.com/iptv/ch9004?code=350151895081936&key=14761
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9005.png" group-title="NeoTV France",Telefoot Stadium 4 HD
+http://vvn.neoredi.com/iptv/ch9005?code=350151895081936&key=48723
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9006.png" group-title="NeoTV France",Telefoot Stadium 5 HD
+http://vvn.neoredi.com/iptv/ch9006?code=350151895081936&key=44509
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9007.png" group-title="NeoTV France",Telefoot Stadium 6 HD
+http://vvn.neoredi.com/iptv/ch9007?code=350151895081936&key=25678
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9008.png" group-title="NeoTV France",Telefoot Stadium 7 HD
+http://vvn.neoredi.com/iptv/ch9008?code=350151895081936&key=58881
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9009.png" group-title="NeoTV France",Telefoot Stadium 8 HD
+http://vvn.neoredi.com/iptv/ch9009?code=350151895081936&key=13557
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/119.png" group-title="NeoTV France",BeInSport 1 FR
+http://vvn.neoredi.com/iptv/ch119?code=350151895081936&key=44087
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/120.png" group-title="NeoTV France",BeInSport 2 FR
+http://vvn.neoredi.com/iptv/ch120?code=350151895081936&key=49925
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/206.png" group-title="NeoTV France",BeInSport 3 FR
+http://vvn.neoredi.com/iptv/ch206?code=350151895081936&key=61529
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/340.png" group-title="NeoTV France",BeInSport Max 4
+http://vvn.neoredi.com/iptv/ch340?code=350151895081936&key=38502
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/341.png" group-title="NeoTV France",BeInSport Max 5
+http://vvn.neoredi.com/iptv/ch341?code=350151895081936&key=11539
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/342.png" group-title="NeoTV France",BeInSport Max 6
+http://vvn.neoredi.com/iptv/ch342?code=350151895081936&key=50550
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/343.png" group-title="NeoTV France",BeInSport Max 7
+http://vvn.neoredi.com/iptv/ch343?code=350151895081936&key=24714
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/344.png" group-title="NeoTV France",BeInSport Max 8
+http://vvn.neoredi.com/iptv/ch344?code=350151895081936&key=38545
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/345.png" group-title="NeoTV France",BeInSport Max 9
+http://vvn.neoredi.com/iptv/ch345?code=350151895081936&key=36088
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/346.png" group-title="NeoTV France",BeInSport Max 10
+http://vvn.neoredi.com/iptv/ch346?code=350151895081936&key=22072
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/300.png" group-title="NeoTV France",A LA Carte 1
+http://vvn.neoredi.com/iptv/ch300?code=350151895081936&key=55337
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/301.png" group-title="NeoTV France",A LA Carte 2
+http://vvn.neoredi.com/iptv/ch301?code=350151895081936&key=16553
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/302.png" group-title="NeoTV France",A LA Carte 3
+http://vvn.neoredi.com/iptv/ch302?code=350151895081936&key=39377
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/303.png" group-title="NeoTV France",A LA Carte 4
+http://vvn.neoredi.com/iptv/ch303?code=350151895081936&key=59610
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/304.png" group-title="NeoTV France",A LA Carte 5
+http://vvn.neoredi.com/iptv/ch304?code=350151895081936&key=15525
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/305.png" group-title="NeoTV France",A LA Carte 6
+http://vvn.neoredi.com/iptv/ch305?code=350151895081936&key=16773
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/306.png" group-title="NeoTV France",A LA Carte 7
+http://vvn.neoredi.com/iptv/ch306?code=350151895081936&key=29360
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/307.png" group-title="NeoTV France",A LA Carte 8
+http://vvn.neoredi.com/iptv/ch307?code=350151895081936&key=45255
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/308.png" group-title="NeoTV France",A LA Carte 9
+http://vvn.neoredi.com/iptv/ch308?code=350151895081936&key=47552
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/309.png" group-title="NeoTV France",A LA Carte 10
+http://vvn.neoredi.com/iptv/ch309?code=350151895081936&key=21935
+
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/300.png" group-title="NeoTV BoxOffice FR",Fr Box Office 1
+http://vvn.neoredi.com/iptv/ch300?code=350151895081936&key=43064
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/301.png" group-title="NeoTV BoxOffice FR",Fr Box Office 2
+http://vvn.neoredi.com/iptv/ch301?code=350151895081936&key=55123
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/302.png" group-title="NeoTV BoxOffice FR",Fr Box Office 3
+http://vvn.neoredi.com/iptv/ch302?code=350151895081936&key=40164
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/303.png" group-title="NeoTV BoxOffice FR",Fr Box Office 4
+http://vvn.neoredi.com/iptv/ch303?code=350151895081936&key=64711
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/304.png" group-title="NeoTV BoxOffice FR",Fr Box Office 5
+http://vvn.neoredi.com/iptv/ch304?code=350151895081936&key=21546
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/305.png" group-title="NeoTV BoxOffice FR",Fr Box Office 6
+http://vvn.neoredi.com/iptv/ch305?code=350151895081936&key=29600
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/306.png" group-title="NeoTV BoxOffice FR",Fr Box Office 7
+http://vvn.neoredi.com/iptv/ch306?code=350151895081936&key=27455
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/307.png" group-title="NeoTV BoxOffice FR",Fr Box Office 8
+http://vvn.neoredi.com/iptv/ch307?code=350151895081936&key=25771
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/308.png" group-title="NeoTV BoxOffice FR",Fr Box Office 9
+http://vvn.neoredi.com/iptv/ch308?code=350151895081936&key=20362
+#EXTINF:0 group-title="Fr Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/309.png" group-title="NeoTV BoxOffice FR",Fr Box Office 10
+http://vvn.neoredi.com/iptv/ch309?code=350151895081936&key=59845
+
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3605.png" group-title="NeoTV USA",ABC News
+http://vvn.neoredi.com/iptv/ch3605?code=350151895081936&key=21699
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3604.png" group-title="NeoTV USA",Fox News
+http://vvn.neoredi.com/iptv/ch3604?code=350151895081936&key=59493
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3603.png" group-title="NeoTV USA",CNN US
+http://vvn.neoredi.com/iptv/ch3603?code=350151895081936&key=30398
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3602.png" group-title="NeoTV USA",MSNBC
+http://vvn.neoredi.com/iptv/ch3602?code=350151895081936&key=45890
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3601.png" group-title="NeoTV USA",CNBC
+http://vvn.neoredi.com/iptv/ch3601?code=350151895081936&key=24795
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3600.png" group-title="NeoTV USA",Fox Business
+http://vvn.neoredi.com/iptv/ch3600?code=350151895081936&key=14949
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3507.png" group-title="NeoTV USA",ABC
+http://vvn.neoredi.com/iptv/ch3507?code=350151895081936&key=56768
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3536.png" group-title="NeoTV USA",SHOWTIME
+http://vvn.neoredi.com/iptv/ch3536?code=350151895081936&key=43025
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3537.png" group-title="NeoTV USA",USA Net.
+http://vvn.neoredi.com/iptv/ch3537?code=350151895081936&key=19938
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3538.png" group-title="NeoTV USA",MLB Net.
+http://vvn.neoredi.com/iptv/ch3538?code=350151895081936&key=21793
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3509.png" group-title="NeoTV USA",TBS HD
+http://vvn.neoredi.com/iptv/ch3509?code=350151895081936&key=49323
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3508.png" group-title="NeoTV USA",TNT HD
+http://vvn.neoredi.com/iptv/ch3508?code=350151895081936&key=25024
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3520.png" group-title="NeoTV USA",FOX HD
+http://vvn.neoredi.com/iptv/ch3520?code=350151895081936&key=62235
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3528.png" group-title="NeoTV USA",AMC HD
+http://vvn.neoredi.com/iptv/ch3528?code=350151895081936&key=47586
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3506.png" group-title="NeoTV USA",ET USA
+http://vvn.neoredi.com/iptv/ch3506?code=350151895081936&key=45192
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3519.png" group-title="NeoTV USA",CBS HD
+http://vvn.neoredi.com/iptv/ch3519?code=350151895081936&key=38067
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3503.png" group-title="NeoTV USA",TLC HD
+http://vvn.neoredi.com/iptv/ch3503?code=350151895081936&key=19225
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3535.png" group-title="NeoTV USA",HBO
+http://vvn.neoredi.com/iptv/ch3535?code=350151895081936&key=41972
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3534.png" group-title="NeoTV USA",HBO Zone
+http://vvn.neoredi.com/iptv/ch3534?code=350151895081936&key=40000
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3533.png" group-title="NeoTV USA",HBO Signature
+http://vvn.neoredi.com/iptv/ch3533?code=350151895081936&key=37389
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3532.png" group-title="NeoTV USA",HBO Comedy
+http://vvn.neoredi.com/iptv/ch3532?code=350151895081936&key=46341
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3531.png" group-title="NeoTV USA",FXX
+http://vvn.neoredi.com/iptv/ch3531?code=350151895081936&key=46681
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3530.png" group-title="NeoTV USA",FX
+http://vvn.neoredi.com/iptv/ch3530?code=350151895081936&key=24024
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3527.png" group-title="NeoTV USA",Action Max HD
+http://vvn.neoredi.com/iptv/ch3527?code=350151895081936&key=14217
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3504.png" group-title="NeoTV USA",Fox Soccer Plus
+http://vvn.neoredi.com/iptv/ch3504?code=350151895081936&key=32760
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3501.png" group-title="NeoTV USA",HG TV
+http://vvn.neoredi.com/iptv/ch3501?code=350151895081936&key=63676
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3502.png" group-title="NeoTV USA",AXS TV
+http://vvn.neoredi.com/iptv/ch3502?code=350151895081936&key=56699
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3529.png" group-title="NeoTV USA",Beinsports
+http://vvn.neoredi.com/iptv/ch3529?code=350151895081936&key=14210
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png" group-title="NeoTV USA",TSN 1 HD
+http://vvn.neoredi.com/iptv/ch3522?code=350151895081936&key=22069
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png" group-title="NeoTV USA",TSN 4 HD
+http://vvn.neoredi.com/iptv/ch3525?code=350151895081936&key=61147
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png" group-title="NeoTV USA",TSN 2 HD
+http://vvn.neoredi.com/iptv/ch3523?code=350151895081936&key=14028
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png" group-title="NeoTV USA",TSN 3 HD
+http://vvn.neoredi.com/iptv/ch3524?code=350151895081936&key=40809
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png" group-title="NeoTV USA",TSN 5 HD
+http://vvn.neoredi.com/iptv/ch3526?code=350151895081936&key=44698
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3521.png" group-title="NeoTV USA",NBC HD
+http://vvn.neoredi.com/iptv/ch3521?code=350151895081936&key=25448
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3518.png" group-title="NeoTV USA",WWE net.
+http://vvn.neoredi.com/iptv/ch3518?code=350151895081936&key=54122
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3517.png" group-title="NeoTV USA",NHL net. HD
+http://vvn.neoredi.com/iptv/ch3517?code=350151895081936&key=46770
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png" group-title="NeoTV USA",NBC Sports net.
+http://vvn.neoredi.com/iptv/ch3516?code=350151895081936&key=60011
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3515.png" group-title="NeoTV USA",NBA HD
+http://vvn.neoredi.com/iptv/ch3515?code=350151895081936&key=44974
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3513.png" group-title="NeoTV USA",Fox Sport 1 HD
+http://vvn.neoredi.com/iptv/ch3513?code=350151895081936&key=58702
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3514.png" group-title="NeoTV USA",Fox Sport 2 HD
+http://vvn.neoredi.com/iptv/ch3514?code=350151895081936&key=59915
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3512.png" group-title="NeoTV USA",ESPN2 HD
+http://vvn.neoredi.com/iptv/ch3512?code=350151895081936&key=24559
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3511.png" group-title="NeoTV USA",ESPN HD
+http://vvn.neoredi.com/iptv/ch3511?code=350151895081936&key=11737
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3510.png" group-title="NeoTV USA",ESPN News HD
+http://vvn.neoredi.com/iptv/ch3510?code=350151895081936&key=44832
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3505.png" group-title="NeoTV USA",Willow cricket HD
+http://vvn.neoredi.com/iptv/ch3505?code=350151895081936&key=34167
+
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/You_Should_Have_Left_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",You Should Have Left
+http://vvn.neoredi.com/vod/You_Should_Have_Left_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Whered_You_Go_Bernadette_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Whered You Go Bernadette
+http://vvn.neoredi.com/vod/Whered_You_Go_Bernadette_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Trop_Belge_Pour_Toi_2019_FR.mkv.png" group-title="NeoTV VOD FR",Trop Belge Pour Toi
+http://vvn.neoredi.com/vod/Trop_Belge_Pour_Toi_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Trial_of_the_Chicago_7_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",The Trial of the Chicago 7
+http://vvn.neoredi.com/vod/The_Trial_of_the_Chicago_7_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Spy_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",The Spy
+http://vvn.neoredi.com/vod/The_Spy_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Secrets_We_Keep_2020_FR.mkv.png" group-title="NeoTV VOD FR",The Secrets We Keep
+http://vvn.neoredi.com/vod/The_Secrets_We_Keep_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Rest_of_Us_2019_FR.mkv.png" group-title="NeoTV VOD FR",The Rest of Us
+http://vvn.neoredi.com/vod/The_Rest_of_Us_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Legend_of_Tomiris_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",The Legend of Tomiris
+http://vvn.neoredi.com/vod/The_Legend_of_Tomiris_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Seized_2020_FR.mkv.png" group-title="NeoTV VOD FR",Seized
+http://vvn.neoredi.com/vod/Seized_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Pompei_2020_FR.mkv.png" group-title="NeoTV VOD FR",Pompei
+http://vvn.neoredi.com/vod/Pompei_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Phantom_Owl_Forest_2018_FR.mkv.png" group-title="NeoTV VOD FR",Phantom Owl Forest
+http://vvn.neoredi.com/vod/Phantom_Owl_Forest_2018_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Paradise_Hills_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Paradise Hills
+http://vvn.neoredi.com/vod/Paradise_Hills_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Nocturne_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Nocturne
+http://vvn.neoredi.com/vod/Nocturne_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mijn_Bijzonder_Rare_Week_Met_Tess_2019_fr.mkv.png" group-title="NeoTV VOD FR",Mijn Bijzonder Rare Week Met Tess
+http://vvn.neoredi.com/vod/Mijn_Bijzonder_Rare_Week_Met_Tess_2019_fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Malmkrog_2020_MULTI.mkv.png" group-title="NeoTV VOD FR",Malmkrog
+http://vvn.neoredi.com/vod/Malmkrog_2020_MULTI.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/L_Autre_2020_FR.mkv.png" group-title="NeoTV VOD FR",L Autre
+http://vvn.neoredi.com/vod/L_Autre_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Hope_Gap_2019_FR.mkv.png" group-title="NeoTV VOD FR",Hope Gap
+http://vvn.neoredi.com/vod/Hope_Gap_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Hard_Kill_2020_MULTI.mkv.png" group-title="NeoTV VOD FR",Hard Kill
+http://vvn.neoredi.com/vod/Hard_Kill_2020_MULTI.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Funf_Freunde_und_das_Tal_der_Dinosaurier.mkv.png" group-title="NeoTV VOD FR",Le Club des Cinq et la vallée des dinosa
+http://vvn.neoredi.com/vod/Funf_Freunde_und_das_Tal_der_Dinosaurier.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Felicita_2020_FR.mkv.png" group-title="NeoTV VOD FR",Felicita
+http://vvn.neoredi.com/vod/Felicita_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Evil_Eye_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Evil Eye
+http://vvn.neoredi.com/vod/Evil_Eye_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Collision_Earth_2020_FR.mkv.png" group-title="NeoTV VOD FR",Collision Earth
+http://vvn.neoredi.com/vod/Collision_Earth_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Clouds_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Clouds
+http://vvn.neoredi.com/vod/Clouds_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Castle_In_The_Ground_2020_FR.mkv.png" group-title="NeoTV VOD FR",Castle In The Ground
+http://vvn.neoredi.com/vod/Castle_In_The_Ground_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Capone_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Capone
+http://vvn.neoredi.com/vod/Capone_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Black_Water_Abyss_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Black Water Abyss
+http://vvn.neoredi.com/vod/Black_Water_Abyss_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Bernie_the_Dolphin_2_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Bernie the Dolphin 2
+http://vvn.neoredi.com/vod/Bernie_the_Dolphin_2_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/August_Creek_2017_fr.mkv.png" group-title="NeoTV VOD FR",August Creek
+http://vvn.neoredi.com/vod/August_Creek_2017_fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Une_Colonie_2019_FR.mkv.png" group-title="NeoTV VOD FR",Une Colonie
+http://vvn.neoredi.com/vod/Une_Colonie_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Perfect_Soulmate_2018_fr.mkv.png" group-title="NeoTV VOD FR",The Perfect Soulmate
+http://vvn.neoredi.com/vod/The_Perfect_Soulmate_2018_fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Snowpiercer_2013_MULTi.mkv.png" group-title="NeoTV VOD FR",Snowpiercer
+http://vvn.neoredi.com/vod/Snowpiercer_2013_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Radioactive_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Radioactive
+http://vvn.neoredi.com/vod/Radioactive_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/A_Babysitters_Guide_to_Monster_Hunting_fr.mkv.png" group-title="NeoTV VOD FR",A Babysitters Guide to Monster Hunting
+http://vvn.neoredi.com/vod/A_Babysitters_Guide_to_Monster_Hunting_fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Tremors_Shrieker_Island_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Tremors Shrieker Island
+http://vvn.neoredi.com/vod/Tremors_Shrieker_Island_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Forty_Year_Old_Version_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",The Forty Year Old Version
+http://vvn.neoredi.com/vod/The_Forty_Year_Old_Version_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Max_Winslow_And_The_House_Of_Secrets_multi.mkv.png" group-title="NeoTV VOD FR",Max Winslow And The House Of Secrets
+http://vvn.neoredi.com/vod/Max_Winslow_And_The_House_Of_Secrets_multi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Les_Fleurs_Oubliees_2019_FR.mkv.png" group-title="NeoTV VOD FR",Les Fleurs Oubliees
+http://vvn.neoredi.com/vod/Les_Fleurs_Oubliees_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Foret_De_Mon_Pere_2020_FR.mkv.png" group-title="NeoTV VOD FR",La Foret De Mon Pere
+http://vvn.neoredi.com/vod/La_Foret_De_Mon_Pere_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Glass_Houses_2020_fr.mkv.png" group-title="NeoTV VOD FR",Glass Houses
+http://vvn.neoredi.com/vod/Glass_Houses_2020_fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/American_Pie_Presents_Girls_Rules_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",American Pie Presents Girls Rules
+http://vvn.neoredi.com/vod/American_Pie_Presents_Girls_Rules_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/A_la_poursuite_de_demain_2015_MULTi.mkv.png" group-title="NeoTV VOD FR",A la poursuite de demain
+http://vvn.neoredi.com/vod/A_la_poursuite_de_demain_2015_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Youve_Got_This_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Youve Got This
+http://vvn.neoredi.com/vod/Youve_Got_This_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Welcome_to_Sudden_Death_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Welcome to Sudden Death
+http://vvn.neoredi.com/vod/Welcome_to_Sudden_Death_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Vampires_vs_The_Bronx_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Vampires vs The Bronx
+http://vvn.neoredi.com/vod/Vampires_vs_The_Bronx_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Secret_Dare_to_Dream_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",The Secret Dare to Dream
+http://vvn.neoredi.com/vod/The_Secret_Dare_to_Dream_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Lost_Husband_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",The Lost Husband
+http://vvn.neoredi.com/vod/The_Lost_Husband_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Lie_2018_MULTi.mkv.png" group-title="NeoTV VOD FR",The Lie
+http://vvn.neoredi.com/vod/The_Lie_2018_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Fanatic_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",The Fanatic
+http://vvn.neoredi.com/vod/The_Fanatic_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Binding_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",The Binding
+http://vvn.neoredi.com/vod/The_Binding_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Tesla_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Tesla
+http://vvn.neoredi.com/vod/Tesla_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Rogue_2020_MULTI.mkv.png" group-title="NeoTV VOD FR",Rogue
+http://vvn.neoredi.com/vod/Rogue_2020_MULTI.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mirage_2019_FR.mkv.png" group-title="NeoTV VOD FR",Mirage
+http://vvn.neoredi.com/vod/Mirage_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Military_Wives_2019_FR.mkv.png" group-title="NeoTV VOD FR",Military Wives
+http://vvn.neoredi.com/vod/Military_Wives_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/L_Ame_Du_Vin_2020_FR.mkv.png" group-title="NeoTV VOD FR",L Ame Du Vin
+http://vvn.neoredi.com/vod/L_Ame_Du_Vin_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/JT_LeRoy_2018_MULTi.mkv.png" group-title="NeoTV VOD FR",JT LeRoy
+http://vvn.neoredi.com/vod/JT_LeRoy_2018_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ahmed_Sylla_Different_2020_FR.mkv.png" group-title="NeoTV VOD FR",Ahmed Sylla Different
+http://vvn.neoredi.com/vod/Ahmed_Sylla_Different_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Hubie_Halloween_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Hubie Halloween
+http://vvn.neoredi.com/vod/Hubie_Halloween_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/How_to_Build_a_Girl_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",How to Build a Girl
+http://vvn.neoredi.com/vod/How_to_Build_a_Girl_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Garabandal_2018_MULTi.mkv.png" group-title="NeoTV VOD FR",Garabandal
+http://vvn.neoredi.com/vod/Garabandal_2018_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Franck_Dubosc_Fifty_Fifty_2020_FR.mkv.png" group-title="NeoTV VOD FR",Franck Dubosc Fifty Fifty
+http://vvn.neoredi.com/vod/Franck_Dubosc_Fifty_Fifty_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Fabrice_Eboue_Plus_Rien_A_Perdre_2020_FR.mkv.png" group-title="NeoTV VOD FR",Fabrice Eboue Plus Rien A Perdre
+http://vvn.neoredi.com/vod/Fabrice_Eboue_Plus_Rien_A_Perdre_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/American_Murder_The_Family_Next_Door.mkv.png" group-title="NeoTV VOD FR",American Murder The Family Next Door
+http://vvn.neoredi.com/vod/American_Murder_The_Family_Next_Door.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Executive_Protection_2015_FR.mkv.png" group-title="NeoTV VOD FR",Executive Protection
+http://vvn.neoredi.com/vod/Executive_Protection_2015_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Cats_and_Dogs_3_Paws_Unite_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Cats and Dogs 3 Paws Unite
+http://vvn.neoredi.com/vod/Cats_and_Dogs_3_Paws_Unite_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Black_Box_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Black Box
+http://vvn.neoredi.com/vod/Black_Box_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Badland_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Badland
+http://vvn.neoredi.com/vod/Badland_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/A_Million_Ways_to_Die_in_the_West_2014_fr.mkv.png" group-title="NeoTV VOD FR",A Million Ways to Die in the West
+http://vvn.neoredi.com/vod/A_Million_Ways_to_Die_in_the_West_2014_fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Am_I_A_Serial_Killer_2019_fr.mkv.png" group-title="NeoTV VOD FR",Am I A Serial Killer
+http://vvn.neoredi.com/vod/Am_I_A_Serial_Killer_2019_fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Stalked_2019_FR.mkv.png" group-title="NeoTV VOD FR",Stalked
+http://vvn.neoredi.com/vod/Stalked_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Secret_Society_of_Second_Born_Royals_fr.mkv.png" group-title="NeoTV VOD FR",Secret Society of Second Born Royals
+http://vvn.neoredi.com/vod/Secret_Society_of_Second_Born_Royals_fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/One_Night_in_Bangkok_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",One Night in Bangkok
+http://vvn.neoredi.com/vod/One_Night_in_Bangkok_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mare_Avec_Les_Loups_2019_FR.mkv.png" group-title="NeoTV VOD FR",Marche Avec Les Loups
+http://vvn.neoredi.com/vod/Marche_Avec_Les_Loups_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Les_Beaux_Menteurs_2019_FR.mkv.png" group-title="NeoTV VOD FR",Les Beaux Menteurs
+http://vvn.neoredi.com/vod/Les_Beaux_Menteurs_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Le_Regard_De_Charles_2019_FR.mkv.png" group-title="NeoTV VOD FR",Le Regard De Charles
+http://vvn.neoredi.com/vod/Le_Regard_De_Charles_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Gundermann_2018_MULTi.mkv.png" group-title="NeoTV VOD FR",Gundermann
+http://vvn.neoredi.com/vod/Gundermann_2018_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Die_Glasbläserin_2016_MULTi.mkv.png" group-title="NeoTV VOD FR",Die Glasbläserin
+http://vvn.neoredi.com/vod/Die_Glasbläserin_2016_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Beyond_White_Space_2018_FR.mkv.png" group-title="NeoTV VOD FR",Beyond White Space
+http://vvn.neoredi.com/vod/Beyond_White_Space_2018_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Airplane_Mode_2019_FR.mkv.png" group-title="NeoTV VOD FR",Airplane Mode
+http://vvn.neoredi.com/vod/Airplane_Mode_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Thomas_Pesquet_l_étoffe_d_un_Héros_2019_FR.mkv.png" group-title="NeoTV VOD FR",Thomas Pesquet l étoffe d un Héros
+http://vvn.neoredi.com/vod/Thomas_Pesquet_l_étoffe_d_un_Héros_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Robo_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Robo
+http://vvn.neoredi.com/vod/Robo_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mission_Tresor_2020.fr.mkv.png" group-title="NeoTV VOD FR",Mission Tresor
+http://vvn.neoredi.com/vod/Mission_Tresor_2020.fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Meprises_2018_FR.mkv.png" group-title="NeoTV VOD FR",Meprises
+http://vvn.neoredi.com/vod/Meprises_2018_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Le_Bel_Été_2019_FR.mkv.png" group-title="NeoTV VOD FR",Le Bel Été
+http://vvn.neoredi.com/vod/Le_Bel_Été_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Cravate_2020_FR.mkv.png" group-title="NeoTV VOD FR",La Cravate
+http://vvn.neoredi.com/vod/La_Cravate_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/K_Contraire_2018_FR.mkv.png" group-title="NeoTV VOD FR",K Contraire
+http://vvn.neoredi.com/vod/K_Contraire_2018_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Happy_Housewives_2019_FR.mkv.png" group-title="NeoTV VOD FR",Happy Housewives
+http://vvn.neoredi.com/vod/Happy_Housewives_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ghost_Tropic_2019_FR.mkv.png" group-title="NeoTV VOD FR",Ghost Tropic
+http://vvn.neoredi.com/vod/Ghost_Tropic_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Tax_Collector_2020_FR.mkv.png" group-title="NeoTV VOD FR",The Tax Collector
+http://vvn.neoredi.com/vod/The_Tax_Collector_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Enola_Holmes_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Enola_Holmes_2020_MULTi.mkv
+http://vvn.neoredi.com/vod/Enola_Holmes_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/2040_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",2040
+http://vvn.neoredi.com/vod/2040_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Photograph_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",The Photograph
+http://vvn.neoredi.com/vod/The_Photograph_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Notre_Dame_du_Nil_2019_FR.mkv.png" group-title="NeoTV VOD FR",Notre Dame du Nil
+http://vvn.neoredi.com/vod/Notre_Dame_du_Nil_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/My_Birthday_Romance_2020_FR.mkv.png" group-title="NeoTV VOD FR",My Birthday Romance
+http://vvn.neoredi.com/vod/My_Birthday_Romance_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Miss_Fisher_and_the_Crypt_of_Tears_2020.mkv.png" group-title="NeoTV VOD FR",Miss Fisher and the Crypt of Tears
+http://vvn.neoredi.com/vod/Miss_Fisher_and_the_Crypt_of_Tears_2020.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Lets_Dance_2019_FR.mkv.png" group-title="NeoTV VOD FR",Lets Dance
+http://vvn.neoredi.com/vod/Lets_Dance_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/J_irai_Décroer_la_Lune_2020_FR.mkv.png" group-title="NeoTV VOD FR",J irai Décrocher la Lune
+http://vvn.neoredi.com/vod/J_irai_Décrocher_la_Lune_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Il_Nido_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Il Nido
+http://vvn.neoredi.com/vod/Il_Nido_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Guest_House_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Guest House
+http://vvn.neoredi.com/vod/Guest_House_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Et_Mon_Coeur_Transparent_2018_FR.mkv.png" group-title="NeoTV VOD FR",Et Mon Coeur Transparent
+http://vvn.neoredi.com/vod/Et_Mon_Coeur_Transparent_2018_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/El_Silencio_de_la_Ciudad_Blanca_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",El Silencio de la Ciudad Blanca
+http://vvn.neoredi.com/vod/El_Silencio_de_la_Ciudad_Blanca_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Cats_and_Dogs_3_Paws_Unite_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Cats and Dogs 3 Paws Unite
+http://vvn.neoredi.com/vod/Cats_and_Dogs_3_Paws_Unite_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Brutus_Vs_Cesar_2020_FR.mkv.png" group-title="NeoTV VOD FR",Brutus Vs Cesar
+http://vvn.neoredi.com/vod/Brutus_Vs_Cesar_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Beau_Joueur_2019_FR.mkv.png" group-title="NeoTV VOD FR",Beau Joueur
+http://vvn.neoredi.com/vod/Beau_Joueur_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Antigone_2020_FR.mkv.png" group-title="NeoTV VOD FR",Antigone
+http://vvn.neoredi.com/vod/Antigone_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Devil_All_The_Time_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",The Devil All The Time
+http://vvn.neoredi.com/vod/The_Devil_All_The_Time_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Tunnelen_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Tunnelen
+http://vvn.neoredi.com/vod/Tunnelen_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Silent_Mountain_2014_MULTi.mkv.png" group-title="NeoTV VOD FR",The Silent Mountain
+http://vvn.neoredi.com/vod/The_Silent_Mountain_2014_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Keeper_2018_MULTi.mkv.png" group-title="NeoTV VOD FR",The Keeper
+http://vvn.neoredi.com/vod/The_Keeper_2018_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Rising_Fear_2016_FR.mkv.png" group-title="NeoTV VOD FR",Rising Fear
+http://vvn.neoredi.com/vod/Rising_Fear_2016_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Vertu_Des_Imponderables_2020_FR.mkv.png" group-title="NeoTV VOD FR",La Vertu Des Impondérables
+http://vvn.neoredi.com/vod/La_Vertu_Des_Imponderables_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ghost_Killers_vs_Bloody_Mary_2018_MULTi.mkv.png" group-title="NeoTV VOD FR",Ghost Killers vs Bloody Mary
+http://vvn.neoredi.com/vod/Ghost_Killers_vs_Bloody_Mary_2018_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/De_Cendres_Et_De_Braises_2019_FR.mkv.png" group-title="NeoTV VOD FR",De Cendres Et De Braises
+http://vvn.neoredi.com/vod/De_Cendres_Et_De_Braises_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Paramedic_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",The Paramedic
+http://vvn.neoredi.com/vod/The_Paramedic_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Shamers_Daughter_2_The_Serpent_Gift.mkv.png" group-title="NeoTV VOD FR",The Shamers Daughter 2 The Serpent Gift
+http://vvn.neoredi.com/vod/The_Shamers_Daughter_2_The_Serpent_Gift.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/GIMS_On_the_Record_2020_FR.mkv.png" group-title="NeoTV VOD FR",GIMS On the Record
+http://vvn.neoredi.com/vod/GIMS_On_the_Record_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Jonathan_2018_MULTi.mkv.png" group-title="NeoTV VOD FR",Jonathan
+http://vvn.neoredi.com/vod/Jonathan_2018_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Sniper_Assassins_End_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Sniper Assassins End
+http://vvn.neoredi.com/vod/Sniper_Assassins_End_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Photograph_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Photograph
+http://vvn.neoredi.com/vod/Photograph_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Howling_Village_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Howling Village
+http://vvn.neoredi.com/vod/Howling_Village_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/3_From_Hell_2019_UNRATED_MULTi.mkv.png" group-title="NeoTV VOD FR",3 From Hell
+http://vvn.neoredi.com/vod/3_From_Hell_2019_UNRATED_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Undercover_Cheerleader_2019_FR.mkv.png" group-title="NeoTV VOD FR",Undercover Cheerleader
+http://vvn.neoredi.com/vod/Undercover_Cheerleader_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Babysitter_Killer_Queen_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",The Babysitter Killer Queen
+http://vvn.neoredi.com/vod/The_Babysitter_Killer_Queen_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Sir_2018_FR.mkv.png" group-title="NeoTV VOD FR",Sir
+http://vvn.neoredi.com/vod/Sir_2018_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Sincerite_2019_FR.mkv.png" group-title="NeoTV VOD FR",La Sincerite
+http://vvn.neoredi.com/vod/La_Sincerite_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mignonnes_2020_FR.mkv.png" group-title="NeoTV VOD FR",Mignonnes
+http://vvn.neoredi.com/vod/Mignonnes_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Dad_Wanted_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Dad Wanted
+http://vvn.neoredi.com/vod/Dad_Wanted_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Corazón_loco_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Corazón loco
+http://vvn.neoredi.com/vod/Corazón_loco_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/My_Octopus_Teaer_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",My Octopus Teacher
+http://vvn.neoredi.com/vod/My_Octopus_Teacher_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ashfall_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Ashfall
+http://vvn.neoredi.com/vod/Ashfall_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Social_Dilemma_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",The Social Dilemma
+http://vvn.neoredi.com/vod/The_Social_Dilemma_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mulan_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Mulan_2020_MULTi.mkv
+http://vvn.neoredi.com/vod/Mulan_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Rememory_2017_MULTi.mkv.png" group-title="NeoTV VOD FR",Rememory
+http://vvn.neoredi.com/vod/Rememory_2017_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Love_Guaranteed_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Love Guaranteed
+http://vvn.neoredi.com/vod/Love_Guaranteed_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Freaks_You_re_One_of_Us_2020_fr.mkv.png" group-title="NeoTV VOD FR",Freaks You re One of Us
+http://vvn.neoredi.com/vod/Freaks_You_re_One_of_Us_2020_fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Irresistible_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Irresistible
+http://vvn.neoredi.com/vod/Irresistible_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Intemperie_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Intemperie
+http://vvn.neoredi.com/vod/Intemperie_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Im_Thinking_of_Ending_Things_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Im_Thinking of Ending Things
+http://vvn.neoredi.com/vod/Im_Thinking_of_Ending_Things_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Thicker_Than_Water_2019_FR.mkv.png" group-title="NeoTV VOD FR",Thicker Than Water
+http://vvn.neoredi.com/vod/Thicker_Than_Water_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Swimming_for_Gold_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Swimming for Gold
+http://vvn.neoredi.com/vod/Swimming_for_Gold_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Bill_and_Ted_Face_the_Music_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Bill and Ted Face the Music
+http://vvn.neoredi.com/vod/Bill_and_Ted_Face_the_Music_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Day_Shall_Come_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",The Day Shall Come
+http://vvn.neoredi.com/vod/The_Day_Shall_Come_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Within_These_Walls_2020_FR.mkv.png" group-title="NeoTV VOD FR",Within These Walls
+http://vvn.neoredi.com/vod/Within_These_Walls_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Waiting_for_the_Barbarians_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Waiting for the Barbarians
+http://vvn.neoredi.com/vod/Waiting_for_the_Barbarians_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Santana_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Santana_2020_MULTi.mkv
+http://vvn.neoredi.com/vod/Santana_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Pp_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",PAPICHA
+http://vvn.neoredi.com/vod/Ppch_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mortal_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Mortal
+http://vvn.neoredi.com/vod/Mortal_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Derniere_Folie_de_Claire_Darling_2018_FR.mkv.png" group-title="NeoTV VOD FR",La Derniere Folie de Claire Darling
+http://vvn.neoredi.com/vod/La_Derniere_Folie_de_Claire_Darling_2018_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/I_See_You_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",I See You
+http://vvn.neoredi.com/vod/I_See_You_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Bumperkleef_2019_FR.mkv.png" group-title="NeoTV VOD FR",Bumperkleef
+http://vvn.neoredi.com/vod/Bumperkleef_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Boyz_in_the_Wood_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Boyz in the Wood
+http://vvn.neoredi.com/vod/Boyz_in_the_Wood_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/All_Together_Now_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",All Together Now
+http://vvn.neoredi.com/vod/All_Together_Now_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Rising_Phoenix_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Rising Phoenix
+http://vvn.neoredi.com/vod/Rising_Phoenix_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Bonne_Epouse_2020_FR.mkv.png" group-title="NeoTV VOD FR",La Bonne Epouse
+http://vvn.neoredi.com/vod/La_Bonne_Epouse_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Gundala_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Gundala
+http://vvn.neoredi.com/vod/Gundala_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Body_Cam_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",Body Cam
+http://vvn.neoredi.com/vod/Body_Cam_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ava_2020_FR.mkv.png" group-title="NeoTV VOD FR",Ava
+http://vvn.neoredi.com/vod/Ava_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Une_Sirene_A_Paris_2020_FR.mkv.png" group-title="NeoTV VOD FR",Une Sirene A Paris
+http://vvn.neoredi.com/vod/Une_Sirene_A_Paris_2020_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/TheSLEP_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",TheSLEP
+http://vvn.neoredi.com/vod/TheSLEP_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_One_and_Only_Ivan_2020_fr.mkv.png" group-title="NeoTV VOD FR",The One and Only Ivan
+http://vvn.neoredi.com/vod/The_One_and_Only_Ivan_2020_fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Lost_And_Found_2016_FR.mkv.png" group-title="NeoTV VOD FR",Lost And Found
+http://vvn.neoredi.com/vod/Lost_And_Found_2016_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Cruel_Peter_2019_FR.mkv.png" group-title="NeoTV VOD FR",Cruel Peter
+http://vvn.neoredi.com/vod/Cruel_Peter_2019_FR.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Chemical_Hearts_2020_fr.mkv.png" group-title="NeoTV VOD FR",Chemical Hearts
+http://vvn.neoredi.com/vod/Chemical_Hearts_2020_fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/A_Good_Woman_Is_Hard_to_Find_2019_fr.mkv.png" group-title="NeoTV VOD FR",A Good Woman Is Hard to Find
+http://vvn.neoredi.com/vod/A_Good_Woman_Is_Hard_to_Find_2019_fr.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Swing_of_Things_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Swing of Things
+http://vvn.neoredi.com/vod/The_Swing_of_Things_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_King_of_Staten_Island_2020_FR.mp4.png" group-title="NeoTV VOD FR",The King of Staten Island
+http://vvn.neoredi.com/vod/The_King_of_Staten_Island_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Birdcater_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Birdcatcher
+http://vvn.neoredi.com/vod/The_Birdcatcher_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Sweetness_In_The_Belly_2020_FR.mp4.png" group-title="NeoTV VOD FR",Sweetness In The Belly
+http://vvn.neoredi.com/vod/Sweetness_In_The_Belly_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Magic_Camp_2020_FR.mp4.png" group-title="NeoTV VOD FR",Magic Camp
+http://vvn.neoredi.com/vod/Magic_Camp_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Le_Rire_2020_FR.mp4.png" group-title="NeoTV VOD FR",Le Rire
+http://vvn.neoredi.com/vod/Le_Rire_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Crimes_That_Bind_2020_MULTi.mkv.png" group-title="NeoTV VOD FR",The Crimes That Bind
+http://vvn.neoredi.com/vod/The_Crimes_That_Bind_2020_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Athlete_A_2020_FR.mp4.png" group-title="NeoTV VOD FR",Athlete A
+http://vvn.neoredi.com/vod/Athlete_A_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Project_Power_2020_FR.mp4.png" group-title="NeoTV VOD FR",Project Power
+http://vvn.neoredi.com/vod/Project_Power_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Hell_On_The_Border_2019_MULTi.mkv.png" group-title="NeoTV VOD FR",Hell On The Border
+http://vvn.neoredi.com/vod/Hell_On_The_Border_2019_MULTi.mkv?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Work_It_2020_FR.mp4.png" group-title="NeoTV VOD FR",Work It
+http://vvn.neoredi.com/vod/Work_It_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_High_Note_2020_FR.mp4.png" group-title="NeoTV VOD FR",The High Note
+http://vvn.neoredi.com/vod/The_High_Note_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Shadow_2018_FR.mp4.png" group-title="NeoTV VOD FR",Shadow
+http://vvn.neoredi.com/vod/Shadow_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Paris_Wine_and_Romance_2019_FR.mp4.png" group-title="NeoTV VOD FR",Paris Wine and Romance
+http://vvn.neoredi.com/vod/Paris_Wine_and_Romance_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Euphoria_2018_FR.mp4.png" group-title="NeoTV VOD FR",Euphoria
+http://vvn.neoredi.com/vod/Euphoria_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Dreamkater_2020_FR.mp4.png" group-title="NeoTV VOD FR",Dreamkatcher
+http://vvn.neoredi.com/vod/Dreamkatcher_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Coma_2019_FR.mp4.png" group-title="NeoTV VOD FR",Coma
+http://vvn.neoredi.com/vod/Coma_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Blondie_Maxwell_Ne_Perd_Jamais_2020_FR.mp4.png" group-title="NeoTV VOD FR",Blondie Maxwell Ne Perd Jamais
+http://vvn.neoredi.com/vod/Blondie_Maxwell_Ne_Perd_Jamais_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Bad_Education_2019_FR.mp4.png" group-title="NeoTV VOD FR",Bad Education
+http://vvn.neoredi.com/vod/Bad_Education_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Last_Rampage_The_Escape_of_Gary_Tison_FR.mp4.png" group-title="NeoTV VOD FR",Last Rampage The Escape of Gary Tison
+http://vvn.neoredi.com/vod/Last_Rampage_The_Escape_of_Gary_Tison_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Askeladden_I_Soria_Moria_Slott_2019_FR.mp4.png" group-title="NeoTV VOD FR",Askeladden I Soria Moria Slott
+http://vvn.neoredi.com/vod/Askeladden_I_Soria_Moria_Slott_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Anelka_Misunderstood_2020_FR.mp4.png" group-title="NeoTV VOD FR",Anelka Misunderstood
+http://vvn.neoredi.com/vod/Anelka_Misunderstood_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Alice_2019_FR.mp4.png" group-title="NeoTV VOD FR",Alice
+http://vvn.neoredi.com/vod/Alice_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Malibu_Rescue_The_Next_Wave_2020_FR.mp4.png" group-title="NeoTV VOD FR",Malibu Rescue The Next Wave
+http://vvn.neoredi.com/vod/Malibu_Rescue_The_Next_Wave_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Outpost_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Outpost
+http://vvn.neoredi.com/vod/The_Outpost_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Random_Acts_Of_Violence_2020_FR.mp4.png" group-title="NeoTV VOD FR",Random Acts Of Violence
+http://vvn.neoredi.com/vod/Random_Acts_Of_Violence_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Krew_Boga_2018_FR.mp4.png" group-title="NeoTV VOD FR",Sword Of God
+http://vvn.neoredi.com/vod/Krew_Boga_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/El_Habitante_2017_FR.mp4.png" group-title="NeoTV VOD FR",El Habitante
+http://vvn.neoredi.com/vod/El_Habitante_2017_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Time_Trap_2017_FR.mp4.png" group-title="NeoTV VOD FR",Time Trap
+http://vvn.neoredi.com/vod/Time_Trap_2017_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Hater_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Hater
+http://vvn.neoredi.com/vod/The_Hater_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Strange_But_True_2019_FR.mp4.png" group-title="NeoTV VOD FR",Strange But True
+http://vvn.neoredi.com/vod/Strange_But_True_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Seriously_Single_2020_FR.mp4.png" group-title="NeoTV VOD FR",Seriously Single
+http://vvn.neoredi.com/vod/Seriously_Single_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/le_fils_du_mask_FR.mp4.png" group-title="NeoTV VOD FR",le fils du mask
+http://vvn.neoredi.com/vod/le_fils_du_mask_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Fille_Au_Bracelet_2019_FR.mp4.png" group-title="NeoTV VOD FR",La Fille Au Bracelet
+http://vvn.neoredi.com/vod/La_Fille_Au_Bracelet_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/El_Asesino_de_los_Caprios_2019_FR.mp4.png" group-title="NeoTV VOD FR",El_Asesino de los Caprichos
+http://vvn.neoredi.com/vod/El_Asesino_de_los_Caprichos_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Deep_Blue_Sea_3_2020_FR.mp4.png" group-title="NeoTV VOD FR",Deep Blue Sea 3
+http://vvn.neoredi.com/vod/Deep_Blue_Sea_3_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Beyond_The_Sky_2018_FR.mp4.png" group-title="NeoTV VOD FR",Beyond The Sky
+http://vvn.neoredi.com/vod/Beyond_The_Sky_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Jumbo_2020_FR.mp4.png" group-title="NeoTV VOD FR",Jumbo
+http://vvn.neoredi.com/vod/Jumbo_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Untogether_2019_FR.mp4.png" group-title="NeoTV VOD FR",Untogether
+http://vvn.neoredi.com/vod/Untogether_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Think_Like_a_Dog_2020_FR.mp4.png" group-title="NeoTV VOD FR",Think Like a Dog
+http://vvn.neoredi.com/vod/Think_Like_a_Dog_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Legend_Of_Barney_Thomson_2015_FR.mp4.png" group-title="NeoTV VOD FR",The Legend Of Barney Thomson
+http://vvn.neoredi.com/vod/The_Legend_Of_Barney_Thomson_2015_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Kissing_Booth_2_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Kissing Booth,2
+http://vvn.neoredi.com/vod/The_Kissing_Booth_2_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Offering_to_the_Storm_2020_FR.mp4.png" group-title="NeoTV VOD FR",Ofrenda A La Tormenta
+http://vvn.neoredi.com/vod/Offering_to_the_Storm_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Waiting_for_Anya_2020_FR.mp4.png" group-title="NeoTV VOD FR",Waiting for Anya
+http://vvn.neoredi.com/vod/Waiting_for_Anya_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Knight_of_Shadows_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Knight of Shadows
+http://vvn.neoredi.com/vod/The_Knight_of_Shadows_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Seberg_2019_FR.mp4.png" group-title="NeoTV VOD FR",Seberg
+http://vvn.neoredi.com/vod/Seberg_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Radio_Silence_2019_FR.mp4.png" group-title="NeoTV VOD FR",Radio Silence
+http://vvn.neoredi.com/vod/Radio_Silence_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Grand_Isle_2019_FR.mp4.png" group-title="NeoTV VOD FR",Grand Isle
+http://vvn.neoredi.com/vod/Grand_Isle_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Bumperkleef_2019_FR.mp4.png" group-title="NeoTV VOD FR",Bumperkleef
+http://vvn.neoredi.com/vod/Bumperkleef_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Cave_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Cave
+http://vvn.neoredi.com/vod/The_Cave_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ordinary_Love_2019_FR.mp4.png" group-title="NeoTV VOD FR",Ordinary Love
+http://vvn.neoredi.com/vod/Ordinary_Love_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Father_Soldier_Son_2020_FR.mp4.png" group-title="NeoTV VOD FR",Father Soldier Son
+http://vvn.neoredi.com/vod/Father_Soldier_Son_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Knight_of_Shadows_Between_Yin_and_Yang_2019_FR.png" group-title="NeoTV VOD FR",The Knight of Shadows Between Yin and Ya
+http://vvn.neoredi.com/vod/The_Knight_of_Shadows_Between_Yin_and_Yang_2019_FR?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Love_On_The_Rise_2020_FR.mp4.png" group-title="NeoTV VOD FR",Love On The Rise
+http://vvn.neoredi.com/vod/Love_On_The_Rise_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Fatal_Affair_2020_FR.mp4.png" group-title="NeoTV VOD FR",Fatal Affair
+http://vvn.neoredi.com/vod/Fatal_Affair_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mission_to_Mars_2000_MULTi.mp4.png" group-title="NeoTV VOD FR",Mission to Mars
+http://vvn.neoredi.com/vod/Mission_to_Mars_2000_MULTi.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Guardian_Angel_2018_FR.mp4.png" group-title="NeoTV VOD FR",The Guardian Angel
+http://vvn.neoredi.com/vod/The_Guardian_Angel_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Greyhound_2020_FR.mp4.png" group-title="NeoTV VOD FR",Greyhound
+http://vvn.neoredi.com/vod/Greyhound_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Cinderela_Pop_2019_FR.mp4.png" group-title="NeoTV VOD FR",Cinderela Pop
+http://vvn.neoredi.com/vod/Cinderela_Pop_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Berlin_Berlin_Der_Film_2020_FR.mp4.png" group-title="NeoTV VOD FR",Berlin Berlin Der Film
+http://vvn.neoredi.com/vod/Berlin_Berlin_Der_Film_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Tobol_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Last Fortress
+http://vvn.neoredi.com/vod/Tobol_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Spasti_Leningrad_2019_FR.mp4.png" group-title="NeoTV VOD FR",La Bataille de Leningrad
+http://vvn.neoredi.com/vod/Spasti_Leningrad_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Old_Guard_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Old Guard
+http://vvn.neoredi.com/vod/The_Old_Guard_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Mask_1994_FR.mp4.png" group-title="NeoTV VOD FR",The Mask
+http://vvn.neoredi.com/vod/The_Mask_1994_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Wasp_Network_2019_FR.mp4.png" group-title="NeoTV VOD FR",Wasp Network
+http://vvn.neoredi.com/vod/Wasp_Network_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Lovers_2017_FR.mp4.png" group-title="NeoTV VOD FR",The Lovers
+http://vvn.neoredi.com/vod/The_Lovers_2017_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Inheritance_2020_FR.mp4.png" group-title="NeoTV VOD FR",Inheritance
+http://vvn.neoredi.com/vod/Inheritance_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Under_the_Riccione_Sun_2020_FR.mp4.png" group-title="NeoTV VOD FR",Under the Riccione Sun
+http://vvn.neoredi.com/vod/Under_the_Riccione_Sun_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Vast_of_Night_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Vast of Night
+http://vvn.neoredi.com/vod/The_Vast_of_Night_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Ruthless_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Ruthless
+http://vvn.neoredi.com/vod/The_Ruthless_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Great_Battle_2018_FR.mp4.png" group-title="NeoTV VOD FR",The Great Battle
+http://vvn.neoredi.com/vod/The_Great_Battle_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Fk_It_List_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Fk It List
+http://vvn.neoredi.com/vod/The_Fk_It_List_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Above_Suspicion_2019_FR.mp4.png" group-title="NeoTV VOD FR",Above Suspicion
+http://vvn.neoredi.com/vod/Above_Suspicion_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Luce_2019_FR.mp4.png" group-title="NeoTV VOD FR",Luce
+http://vvn.neoredi.com/vod/Luce_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Lepreaun_Returns_2018_FR.mp4.png" group-title="NeoTV VOD FR",Leprechaun Returns
+http://vvn.neoredi.com/vod/Leprechaun_Returns_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/De_Gaulle_2020_FR.mp4.png" group-title="NeoTV VOD FR",De Gaulle
+http://vvn.neoredi.com/vod/De_Gaulle_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Desperados_2020_FR.mp4.png" group-title="NeoTV VOD FR",Desperados
+http://vvn.neoredi.com/vod/Desperados_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Survive_the_Night_2020_FR.mp4.png" group-title="NeoTV VOD FR",Survive the Night
+http://vvn.neoredi.com/vod/Survive_the_Night_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mes_Jours_De_Gloire_2019_FR.mp4.png" group-title="NeoTV VOD FR",Mes Jours De Gloire
+http://vvn.neoredi.com/vod/Mes_Jours_De_Gloire_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Last_Moment_Of_Clarity_2020_FR.mp4.png" group-title="NeoTV VOD FR",Last Moment Of Clarity
+http://vvn.neoredi.com/vod/Last_Moment_Of_Clarity_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Adú_2020_FR.mp4.png" group-title="NeoTV VOD FR",Adú
+http://vvn.neoredi.com/vod/Adú_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/14_Jours_12_Nuits_2020_FR.mp4.png" group-title="NeoTV VOD FR",14 Jours 12 Nuits
+http://vvn.neoredi.com/vod/14_Jours_12_Nuits_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Lodge_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Lodge
+http://vvn.neoredi.com/vod/The_Lodge_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Adventure_Of_A_R_I_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Adventure Of A R I
+http://vvn.neoredi.com/vod/The_Adventure_Of_A_R_I_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Eurovision_Song_Contest_2020_FR.mp4.png" group-title="NeoTV VOD FR",Eurovision Song Contest
+http://vvn.neoredi.com/vod/Eurovision_Song_Contest_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Yardie_2018_FR.mp4.png" group-title="NeoTV VOD FR",Yardie
+http://vvn.neoredi.com/vod/Yardie_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Valhalla_2019_FR.mp4.png" group-title="NeoTV VOD FR",Valhalla
+http://vvn.neoredi.com/vod/Valhalla_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Separated_At_Birth_2018_FR.mp4.png" group-title="NeoTV VOD FR",Separated At Birth
+http://vvn.neoredi.com/vod/Separated_At_Birth_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Sea_Fever_2019_FR.mp4.png" group-title="NeoTV VOD FR",Sea Fever
+http://vvn.neoredi.com/vod/Sea_Fever_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Milada_2017_FR.mp4.png" group-title="NeoTV VOD FR",Milada
+http://vvn.neoredi.com/vod/Milada_2017_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mientras_dure_la_guerra_2019_FR.mp4.png" group-title="NeoTV VOD FR",LETTRE A FRANCO
+http://vvn.neoredi.com/vod/Mientras_dure_la_guerra_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/L_Oiseau_De_Paradis_2019_FR.mp4.png" group-title="NeoTV VOD FR",L Oiseau De Paradis
+http://vvn.neoredi.com/vod/L_Oiseau_De_Paradis_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Die_Wolf_Gang_2020_FR.mp4.png" group-title="NeoTV VOD FR",Die Wolf Gang
+http://vvn.neoredi.com/vod/Die_Wolf_Gang_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Adventures_Of_Rufus_The_Fantastic_Pe_FR.mp4.png" group-title="NeoTV VOD FR",Adventures Of Rufus The Fantastic Pet
+http://vvn.neoredi.com/vod/Adventures_Of_Rufus_The_Fantastic_Pe_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/I_Am_Not_Ashamed_2016_FR.mp4.png" group-title="NeoTV VOD FR",I Am Not Ashamed
+http://vvn.neoredi.com/vod/I_Am_Not_Ashamed_2016_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Filles_De_Joie_2020_FR.mp4.png" group-title="NeoTV VOD FR",Filles De Joie
+http://vvn.neoredi.com/vod/Filles_De_Joie_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Feel_the_Beat_2020_FR.mp4.png" group-title="NeoTV VOD FR",Feel the Beat
+http://vvn.neoredi.com/vod/Feel_the_Beat_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ducobu_3_2020_FR.mp4.png" group-title="NeoTV VOD FR",Ducobu 3
+http://vvn.neoredi.com/vod/Ducobu_3_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Buffaloed_2019_FR.mp4.png" group-title="NeoTV VOD FR",Buffaloed
+http://vvn.neoredi.com/vod/Buffaloed_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Balle_perdue_2020_FR.mp4.png" group-title="NeoTV VOD FR",Balle perdue
+http://vvn.neoredi.com/vod/Balle_perdue_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/A_Bluebird_in_My_Heart_2018_FR.mp4.png" group-title="NeoTV VOD FR",A Bluebird in My Heart
+http://vvn.neoredi.com/vod/A_Bluebird_in_My_Heart_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/7500_2019_FR.mp4.png" group-title="NeoTV VOD FR",7500
+http://vvn.neoredi.com/vod/7500_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Waves_2019_FR.mp4.png" group-title="NeoTV VOD FR",Waves
+http://vvn.neoredi.com/vod/Waves_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Postcard_Killings_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Postcard Killings
+http://vvn.neoredi.com/vod/The_Postcard_Killings_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ri_in_Love_2020_FR.mp4.png" group-title="NeoTV VOD FR",Rich in Love
+http://vvn.neoredi.com/vod/Rich_in_Love_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/I_Still_Believe_2020_FR.mp4.png" group-title="NeoTV VOD FR",I Still Believe
+http://vvn.neoredi.com/vod/I_Still_Believe_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Hooking_Up_2020_FR.mp4.png" group-title="NeoTV VOD FR",Hooking Up
+http://vvn.neoredi.com/vod/Hooking_Up_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Da_5_Bloods_2020_FR.mp4.png" group-title="NeoTV VOD FR",Da 5 Bloods
+http://vvn.neoredi.com/vod/Da_5_Bloods_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Becoming_2020_DOC_FR.mp4.png" group-title="NeoTV VOD FR",Becoming
+http://vvn.neoredi.com/vod/Becoming_2020_DOC_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Artemis_Fowl_2020_FR.mp4.png" group-title="NeoTV VOD FR",Artemis Fowl
+http://vvn.neoredi.com/vod/Artemis_Fowl_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Quarry_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Quarry
+http://vvn.neoredi.com/vod/The_Quarry_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Then_Came_You_2018_FR.mp4.png" group-title="NeoTV VOD FR",Then Came You
+http://vvn.neoredi.com/vod/Then_Came_You_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Kindness_of_Strangers_2018_FR.mp4.png" group-title="NeoTV VOD FR",The Kindness of Strangers
+http://vvn.neoredi.com/vod/The_Kindness_of_Strangers_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Do_You_Believe_2015_FR.mp4.png" group-title="NeoTV VOD FR",Do You Believe
+http://vvn.neoredi.com/vod/Do_You_Believe_2015_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Banana_Split_2018_FR.mp4.png" group-title="NeoTV VOD FR",Banana Split
+http://vvn.neoredi.com/vod/Banana_Split_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Last_Days_of_American_Crime_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Last Days of American Crime
+http://vvn.neoredi.com/vod/The_Last_Days_of_American_Crime_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Swimming_With_Men_2018_FR.mp4.png" group-title="NeoTV VOD FR",Swimming With Men
+http://vvn.neoredi.com/vod/Swimming_With_Men_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Primal_2019_FR.mp4.png" group-title="NeoTV VOD FR",Primal
+http://vvn.neoredi.com/vod/Primal_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/River_Runs_Red_2018_FR.mp4.png" group-title="NeoTV VOD FR",River Runs Red
+http://vvn.neoredi.com/vod/River_Runs_Red_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Je_Voudrais_Que_Quelqu_Un....._FR.mp4.png" group-title="NeoTV VOD FR",Je Voudrais Que Quelqu Un..
+http://vvn.neoredi.com/vod/Je_Voudrais_Que_Quelqu_Un....._FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Intuition_2020_FR.mp4.png" group-title="NeoTV VOD FR",Intuition
+http://vvn.neoredi.com/vod/Intuition_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Adam_2019_ar.mp4.png" group-title="NeoTV VOD FR",Adam
+http://vvn.neoredi.com/vod/Adam_2019_ar.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Lovebirds_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Lovebirds
+http://vvn.neoredi.com/vod/The_Lovebirds_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ride_Like_a_Girl_2019_FR.mp4.png" group-title="NeoTV VOD FR",Ride Like a Girl
+http://vvn.neoredi.com/vod/Ride_Like_a_Girl_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Funeral_Killers_2019_FR.mp4.png" group-title="NeoTV VOD FR",Funeral Killers
+http://vvn.neoredi.com/vod/Funeral_Killers_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Frankie_2019_FR.mp4.png" group-title="NeoTV VOD FR",Frankie
+http://vvn.neoredi.com/vod/Frankie_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Warning_Do_Not_Play_2019_FR.mp4.png" group-title="NeoTV VOD FR",Warning Do Not Play
+http://vvn.neoredi.com/vod/Warning_Do_Not_Play_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Traumfabrik_2019_FR.mp4.png" group-title="NeoTV VOD FR",Traumfabrik
+http://vvn.neoredi.com/vod/Traumfabrik_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Wrong_Missy_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Wrong Missy
+http://vvn.neoredi.com/vod/The_Wrong_Missy_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Work_Wife_2018_FR.mp4.png" group-title="NeoTV VOD FR",The Work Wife
+http://vvn.neoredi.com/vod/The_Work_Wife_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Song_of_Names_2019_MULTi.mp4.png" group-title="NeoTV VOD FR",The Song of Names
+http://vvn.neoredi.com/vod/The_Song_of_Names_2019_MULTi.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Room_2019_MULTi.mp4.png" group-title="NeoTV VOD FR",The Room
+http://vvn.neoredi.com/vod/The_Room_2019_MULTi.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Night_Clerk_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Night Clerk
+http://vvn.neoredi.com/vod/The_Night_Clerk_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Half_Of_It_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Half Of It
+http://vvn.neoredi.com/vod/The_Half_Of_It_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Green_Mile_1999_fr.mp4.png" group-title="NeoTV VOD FR",The Green Mile
+http://vvn.neoredi.com/vod/The_Green_Mile_1999_fr.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Te_Quiero_Imbecil_2019_FR.mp4.png" group-title="NeoTV VOD FR",Te Quiero Imbecil
+http://vvn.neoredi.com/vod/Te_Quiero_Imbecil_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Romulus_and_Remus_The_First_King_2019_FR.mp4.png" group-title="NeoTV VOD FR",Romulus and Remus The First King
+http://vvn.neoredi.com/vod/Romulus_and_Remus_The_First_King_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Radioactive_2019_FR.mp4.png" group-title="NeoTV VOD FR",Radioactive
+http://vvn.neoredi.com/vod/Radioactive_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Pinocio_2019_FR.mp4.png" group-title="NeoTV VOD FR",Pinocchio
+http://vvn.neoredi.com/vod/Pinocchio_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/My_Spy_2020_FR.mp4.png" group-title="NeoTV VOD FR",My Spy
+http://vvn.neoredi.com/vod/My_Spy_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Monos_2019_FR.mp4.png" group-title="NeoTV VOD FR",Monos
+http://vvn.neoredi.com/vod/Monos_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mafia_Inc_2019_FR.mp4.png" group-title="NeoTV VOD FR",Mafia Inc
+http://vvn.neoredi.com/vod/Mafia_Inc_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/L_Etat_Sauvage_2019_FR.mp4.png" group-title="NeoTV VOD FR",L Etat Sauvage
+http://vvn.neoredi.com/vod/L_Etat_Sauvage_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Les_Vetos_2019_FR.mp4.png" group-title="NeoTV VOD FR",Les Vetos
+http://vvn.neoredi.com/vod/Les_Vetos_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Les_Traducteurs_2019_FR.mp4.png" group-title="NeoTV VOD FR",Les Traducteurs
+http://vvn.neoredi.com/vod/Les_Traducteurs_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Derniere_Vie_De_Simon_2020_FR.mp4.png" group-title="NeoTV VOD FR",La Derniere Vie De Simon
+http://vvn.neoredi.com/vod/La_Derniere_Vie_De_Simon_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Je_Ne_Reve_Que_De_Vous_2020_FR.mp4.png" group-title="NeoTV VOD FR",Je Ne Reve Que De Vous
+http://vvn.neoredi.com/vod/Je_Ne_Reve_Que_De_Vous_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/For_Love_Or_Money_2019_FR.mp4.png" group-title="NeoTV VOD FR",For Love Or Money
+http://vvn.neoredi.com/vod/For_Love_Or_Money_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Fabuleuses_2019_FR.mp4.png" group-title="NeoTV VOD FR",Fabuleuses
+http://vvn.neoredi.com/vod/Fabuleuses_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Encounter_2019_FR.mp4.png" group-title="NeoTV VOD FR",Encounter
+http://vvn.neoredi.com/vod/Encounter_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Dont_Let_Go_2019_FR.mp4.png" group-title="NeoTV VOD FR",Dont Let Go
+http://vvn.neoredi.com/vod/Dont_Let_Go_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Disappearance_At_Clifton_Hill_2020_FR.mp4.png" group-title="NeoTV VOD FR",Disappearance At Clifton Hill
+http://vvn.neoredi.com/vod/Disappearance_At_Clifton_Hill_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Dangerous_Lies_2020_FR.mp4.png" group-title="NeoTV VOD FR",Dangerous Lies
+http://vvn.neoredi.com/vod/Dangerous_Lies_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Corporate_Animals_2019_FR.mp4.png" group-title="NeoTV VOD FR",Corporate Animals
+http://vvn.neoredi.com/vod/Corporate_Animals_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Clement_Alex_Et_Tous_Les_Autres_2019_FR.mp4.png" group-title="NeoTV VOD FR",Clement Alex Et Tous Les Autres
+http://vvn.neoredi.com/vod/Clement_Alex_Et_Tous_Les_Autres_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Can_You_Keep_a_Secret_2019_FR.mp4.png" group-title="NeoTV VOD FR",Can You Keep a Secret
+http://vvn.neoredi.com/vod/Can_You_Keep_a_Secret_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Blue_Story_2019_FR.mp4.png" group-title="NeoTV VOD FR",Blue Story
+http://vvn.neoredi.com/vod/Blue_Story_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Blood_Quantum_2020_FR.mp4.png" group-title="NeoTV VOD FR",Blood Quantum
+http://vvn.neoredi.com/vod/Blood_Quantum_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/American_Woman_2019_FR.mp4.png" group-title="NeoTV VOD FR",American Woman
+http://vvn.neoredi.com/vod/American_Woman_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/All_Day_and_a_Night_2020_FR.mp4.png" group-title="NeoTV VOD FR",All Day and a Night
+http://vvn.neoredi.com/vod/All_Day_and_a_Night_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Silence_of_the_Marsh_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Silence of the Marsh
+http://vvn.neoredi.com/vod/The_Silence_of_the_Marsh_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Satanic_Panic_2019_FR.mp4.png" group-title="NeoTV VOD FR",Satanic Panic
+http://vvn.neoredi.com/vod/Satanic_Panic_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Rendez_Vous_Chez_les_Malawas_2019_FR.mp4.png" group-title="NeoTV VOD FR",Rendez Vous Chez les Malawas
+http://vvn.neoredi.com/vod/Rendez_Vous_Chez_les_Malawas_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Qu_un_Sang_Impur_2019_FR.mp4.png" group-title="NeoTV VOD FR",Qu un Sang Impur
+http://vvn.neoredi.com/vod/Qu_un_Sang_Impur_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Plagi_Breslau_2018_FR.mp4.png" group-title="NeoTV VOD FR",Plagi Breslau
+http://vvn.neoredi.com/vod/Plagi_Breslau_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Phénix_2018_FR.mp4.png" group-title="NeoTV VOD FR",Phénix
+http://vvn.neoredi.com/vod/Phénix_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Le_Cahier_Noir_2018_FR.mp4.png" group-title="NeoTV VOD FR",Le Cahier Noir
+http://vvn.neoredi.com/vod/Le_Cahier_Noir_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ideal_Home_2018_FR.mp4.png" group-title="NeoTV VOD FR",Ideal Home
+http://vvn.neoredi.com/vod/Ideal_Home_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Foxter_et_Max_2019_FR.mp4.png" group-title="NeoTV VOD FR",Foxter et Max
+http://vvn.neoredi.com/vod/Foxter_et_Max_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Extraction_2020_FR.mp4.png" group-title="NeoTV VOD FR",Extraction
+http://vvn.neoredi.com/vod/Extraction_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/En_Mille_Morceaux_2018_FR.mp4.png" group-title="NeoTV VOD FR",En Mille Morceaux
+http://vvn.neoredi.com/vod/En_Mille_Morceaux_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Douze_Mille_2019_FR.mp4.png" group-title="NeoTV VOD FR",Douze Mille
+http://vvn.neoredi.com/vod/Douze_Mille_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Debout_2019_FR.mp4.png" group-title="NeoTV VOD FR",Debout
+http://vvn.neoredi.com/vod/Debout_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Cuban_Network_2019_FR.mp4.png" group-title="NeoTV VOD FR",Cuban Network
+http://vvn.neoredi.com/vod/Cuban_Network_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/5_e_Il_Numero_Perfetto_2019_FR.mp4.png" group-title="NeoTV VOD FR",5 e Il Numero Perfetto
+http://vvn.neoredi.com/vod/5_e_Il_Numero_Perfetto_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Wendy_2020_FR.mp4.png" group-title="NeoTV VOD FR",Wendy
+http://vvn.neoredi.com/vod/Wendy_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Une_Joie_Secrète_2019_FR.mp4.png" group-title="NeoTV VOD FR",Une Joie Secrète
+http://vvn.neoredi.com/vod/Une_Joie_Secrète_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ulysse_et_Mona_2018_FR.mp4.png" group-title="NeoTV VOD FR",Ulysse et Mona
+http://vvn.neoredi.com/vod/Ulysse_et_Mona_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Rhythm_Section_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Rhythm Section
+http://vvn.neoredi.com/vod/The_Rhythm_Section_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Last_Full_Measure_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Last Full Measure
+http://vvn.neoredi.com/vod/The_Last_Full_Measure_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Sergio_2020_FR.mp4.png" group-title="NeoTV VOD FR",Sergio
+http://vvn.neoredi.com/vod/Sergio_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Selah_And_The_Spades_2020_FR.mp4.png" group-title="NeoTV VOD FR",Selah And The Spades
+http://vvn.neoredi.com/vod/Selah_And_The_Spades_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Rising_High_2020_FR.mp4.png" group-title="NeoTV VOD FR",Rising High
+http://vvn.neoredi.com/vod/Rising_High_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Rêves_de_Jeunesse_2019_FR.mp4.png" group-title="NeoTV VOD FR",Rêves de Jeunesse
+http://vvn.neoredi.com/vod/Rêves_de_Jeunesse_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Peel_2019_FR.mp4.png" group-title="NeoTV VOD FR",Peel
+http://vvn.neoredi.com/vod/Peel_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/On_Ment_Toujours_a_Ceux_qu_on_Aime_2019_FR.mp4.png" group-title="NeoTV VOD FR",On Ment Toujours a Ceux qu on Aime
+http://vvn.neoredi.com/vod/On_Ment_Toujours_a_Ceux_qu_on_Aime_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Terre_et_le_Sang_2020_FR.mp4.png" group-title="NeoTV VOD FR",La Terre et le Sang
+http://vvn.neoredi.com/vod/La_Terre_et_le_Sang_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Jeune_Juliette_2019_FR.mp4.png" group-title="NeoTV VOD FR",Jeune Juliette
+http://vvn.neoredi.com/vod/Jeune_Juliette_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Haut_Perés_2019_FR.mp4.png" group-title="NeoTV VOD FR",Haut Perchés
+http://vvn.neoredi.com/vod/Haut_Perchés_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Des_Hommes_2019_FR.mp4.png" group-title="NeoTV VOD FR",Des Hommes
+http://vvn.neoredi.com/vod/Des_Hommes_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Debout_Sur_la_Montagne_2018_FR.mp4.png" group-title="NeoTV VOD FR",Debout Sur la Montagne
+http://vvn.neoredi.com/vod/Debout_Sur_la_Montagne_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Vif_Argent_2019_FR.mp4.png" group-title="NeoTV VOD FR",Vif Argent
+http://vvn.neoredi.com/vod/Vif_Argent_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Terminal_Sud_2019_FR.mp4.png" group-title="NeoTV VOD FR",Terminal Sud
+http://vvn.neoredi.com/vod/Terminal_Sud_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Selfie_2019_FR.mp4.png" group-title="NeoTV VOD FR",Selfie
+http://vvn.neoredi.com/vod/Selfie_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mine_De_Rien_2020_FR.mp4.png" group-title="NeoTV VOD FR",Mine De Rien
+http://vvn.neoredi.com/vod/Mine_De_Rien_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mare_ou_Crève_2018_FR.mp4.png" group-title="NeoTV VOD FR",Marche ou Crève
+http://vvn.neoredi.com/vod/Marche_ou_Crève_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Les_Envoutés_2019_FR.mp4.png" group-title="NeoTV VOD FR",Les Envoutés
+http://vvn.neoredi.com/vod/Les_Envoutés_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Sainte_Famille_2019_FR.mp4.png" group-title="NeoTV VOD FR",La Sainte Famille
+http://vvn.neoredi.com/vod/La_Sainte_Famille_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Fille_au_Bracelet_2019_FR.mp4.png" group-title="NeoTV VOD FR",La Fille au Bracelet
+http://vvn.neoredi.com/vod/La_Fille_au_Bracelet_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Hell_On_The_Border_2019_FR.mp4.png" group-title="NeoTV VOD FR",Hell On The Border
+http://vvn.neoredi.com/vod/Hell_On_The_Border_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Un_Monde_Plus_Grand_2019_FR.mp4.png" group-title="NeoTV VOD FR",Un Monde Plus Grand
+http://vvn.neoredi.com/vod/Un_Monde_Plus_Grand_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Main_Event_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Main Event
+http://vvn.neoredi.com/vod/The_Main_Event_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Sympathie_Pour_le_Diable_2019_FR.mp4.png" group-title="NeoTV VOD FR",Sympathie Pour le Diable
+http://vvn.neoredi.com/vod/Sympathie_Pour_le_Diable_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Love_Wedding_Repeat_2020_FR.mp4.png" group-title="NeoTV VOD FR",Love Wedding Repeat
+http://vvn.neoredi.com/vod/Love_Wedding_Repeat_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Forte_2020_FR.mp4.png" group-title="NeoTV VOD FR",Forte
+http://vvn.neoredi.com/vod/Forte_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Fantasy_Island_2020_FR.mp4.png" group-title="NeoTV VOD FR",Fantasy Island
+http://vvn.neoredi.com/vod/Fantasy_Island_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/A_Hologram_for_the_King_2016_FR.mp4.png" group-title="NeoTV VOD FR",A Hologram for the King
+http://vvn.neoredi.com/vod/A_Hologram_for_the_King_2016_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Vous_Etes_Jeunes_Vous_Etes_Beaux_2018_FR.mp4.png" group-title="NeoTV VOD FR",Vous Etes Jeunes Vous Etes Beaux
+http://vvn.neoredi.com/vod/Vous_Etes_Jeunes_Vous_Etes_Beaux_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Un_Divan_a_Tunis_2019_FR_ar.mp4.png" group-title="NeoTV VOD FR",Un Divan a Tunis
+http://vvn.neoredi.com/vod/Un_Divan_a_Tunis_2019_FR_ar.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Tous_Les_Dieux_du_Ciel_2018_FR.mp4.png" group-title="NeoTV VOD FR",Tous Les Dieux du Ciel
+http://vvn.neoredi.com/vod/Tous_Les_Dieux_du_Ciel_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Rhythm_Section_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Rhythm Section
+http://vvn.neoredi.com/vod/The_Rhythm_Section_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Kill_Team_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Kill Team
+http://vvn.neoredi.com/vod/The_Kill_Team_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Gentlemen_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Gentlemen
+http://vvn.neoredi.com/vod/The_Gentlemen_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ride_2018_FR.mp4.png" group-title="NeoTV VOD FR",Ride
+http://vvn.neoredi.com/vod/Ride_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Merveilles_a_Montfermeil_2019_FR.mp4.png" group-title="NeoTV VOD FR",Merveilles a Montfermeil
+http://vvn.neoredi.com/vod/Merveilles_a_Montfermeil_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Matthias_Et_Maxime_2019_FR.mp4.png" group-title="NeoTV VOD FR",Matthias Et Maxime
+http://vvn.neoredi.com/vod/Matthias_Et_Maxime_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Lola_Vers_La_Mer_2019_FR.mp4.png" group-title="NeoTV VOD FR",Lola Vers La Mer
+http://vvn.neoredi.com/vod/Lola_Vers_La_Mer_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Liberte_2019_FR.mp4.png" group-title="NeoTV VOD FR",Liberte
+http://vvn.neoredi.com/vod/Liberte_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Les_Météorites_2018_FR.mp4.png" group-title="NeoTV VOD FR",Les Météorites
+http://vvn.neoredi.com/vod/Les_Météorites_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Les_Enfants_d_Isadora_2019_FR.mp4.png" group-title="NeoTV VOD FR",Les Enfants d Isadora
+http://vvn.neoredi.com/vod/Les_Enfants_d_Isadora_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Le_Prince_Oublie_2020_FR.mp4.png" group-title="NeoTV VOD FR",Le Prince Oublie
+http://vvn.neoredi.com/vod/Le_Prince_Oublie_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Le_Meilleur_Reste_à_Venir_2019_FR.mp4.png" group-title="NeoTV VOD FR",Le Meilleur Reste A Venir
+http://vvn.neoredi.com/vod/Le_Meilleur_Reste_à_Venir_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/L_Autre_Continent_2018_FR.mp4.png" group-title="NeoTV VOD FR",L Autre Continent
+http://vvn.neoredi.com/vod/L_Autre_Continent_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/L_angle_Mort_2019_FR.mp4.png" group-title="NeoTV VOD FR",L angle Mort
+http://vvn.neoredi.com/vod/L_angle_Mort_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Docteur_2019_FR.mp4.png" group-title="NeoTV VOD FR",Docteur
+http://vvn.neoredi.com/vod/Docteur_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Camille_2019_FR.mp4.png" group-title="NeoTV VOD FR",Camille
+http://vvn.neoredi.com/vod/Camille_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Braquer_Poitiers_2018_FR.mp4.png" group-title="NeoTV VOD FR",Braquer Poitiers
+http://vvn.neoredi.com/vod/Braquer_Poitiers_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Deux_2019_FR.mp4.png" group-title="NeoTV VOD FR",Deux
+http://vvn.neoredi.com/vod/Deux_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Un_Vrai_Bonhomme_2019_FR.mp4.png" group-title="NeoTV VOD FR",Un Vrai Bonhomme
+http://vvn.neoredi.com/vod/Un_Vrai_Bonhomme_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Seules_les_Betes_2019_FR.mp4.png" group-title="NeoTV VOD FR",Seules les Bêtes
+http://vvn.neoredi.com/vod/Seules_les_Betes_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Notre_Dame_2019_FR.mp4.png" group-title="NeoTV VOD FR",Notre Dame
+http://vvn.neoredi.com/vod/Notre_Dame_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Color_Out_of_Space_2019_FR.mp4.png" group-title="NeoTV VOD FR",Color Out of Space
+http://vvn.neoredi.com/vod/Color_Out_of_Space_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Zoo_2017_FR.mp4.png" group-title="NeoTV VOD FR",Zoo
+http://vvn.neoredi.com/vod/Zoo_2017_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Violet_Evergarden_2019_FR.mp4.png" group-title="NeoTV VOD FR",Violet Evergarden
+http://vvn.neoredi.com/vod/Violet_Evergarden_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Une_Belle_Equipe_2019_FR.mp4.png" group-title="NeoTV VOD FR",Une Belle Equipe
+http://vvn.neoredi.com/vod/Une_Belle_Equipe_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/U_235_2019_FR.mp4.png" group-title="NeoTV VOD FR",U 235
+http://vvn.neoredi.com/vod/U_235_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Mystery_Of_The_Dragon_Seal_2019_FR.mp4.png" group-title="NeoTV VOD FR",THE IRON MASK
+http://vvn.neoredi.com/vod/The_Mystery_Of_The_Dragon_Seal_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Mon_Chien_Stupide_2019_FR.mp4.png" group-title="NeoTV VOD FR",Mon Chien Stupide
+http://vvn.neoredi.com/vod/Mon_Chien_Stupide_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Les_Eblouis_2019_FR.mp4.png" group-title="NeoTV VOD FR",Les Eblouis
+http://vvn.neoredi.com/vod/Les_Eblouis_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Le_Lion_2020_FR.mp4.png" group-title="NeoTV VOD FR",Le Lion
+http://vvn.neoredi.com/vod/Le_Lion_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Jesuisla_2019_FR.mp4.png" group-title="NeoTV VOD FR",JeSuisLa
+http://vvn.neoredi.com/vod/Jesuisla_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Gloria_Mundi_2019_FR.mp4.png" group-title="NeoTV VOD FR",Gloria Mundi
+http://vvn.neoredi.com/vod/Gloria_Mundi_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Emma_2020_FR.mp4.png" group-title="NeoTV VOD FR",Emma
+http://vvn.neoredi.com/vod/Emma_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Elephant_2020_DOC_FR.mp4.png" group-title="NeoTV VOD FR",Elephant
+http://vvn.neoredi.com/vod/Elephant_2020_DOC_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Coffee_and_Kareem_2020_FR.mp4.png" group-title="NeoTV VOD FR",Coffee and Kareem
+http://vvn.neoredi.com/vod/Coffee_and_Kareem_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Chanson_Douce_2019_FR.mp4.png" group-title="NeoTV VOD FR",Chanson Douce
+http://vvn.neoredi.com/vod/Chanson_Douce_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Brahms_The_Boy_II_2020_FR.mp4.png" group-title="NeoTV VOD FR",Brahms The Boy II
+http://vvn.neoredi.com/vod/Brahms_The_Boy_II_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Adoration_2019_FR.mp4.png" group-title="NeoTV VOD FR",Adoration
+http://vvn.neoredi.com/vod/Adoration_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/10_Jours_Sans_Maman_2020_FR.mp4.png" group-title="NeoTV VOD FR",10 Jours Sans Maman
+http://vvn.neoredi.com/vod/10_Jours_Sans_Maman_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Underwater_2020_FR.mp4.png" group-title="NeoTV VOD FR",Underwater
+http://vvn.neoredi.com/vod/Underwater_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Un_Avventura_2019_FR.mp4.png" group-title="NeoTV VOD FR",Un Avventura
+http://vvn.neoredi.com/vod/Un_Avventura_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Toute_Ressemblance_2019_FR.mp4.png" group-title="NeoTV VOD FR",Toute Ressemblance
+http://vvn.neoredi.com/vod/Toute_Ressemblance_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Hunt_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Hunt
+http://vvn.neoredi.com/vod/The_Hunt_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Current_War_2017_FR.mp4.png" group-title="NeoTV VOD FR",The Current War
+http://vvn.neoredi.com/vod/The_Current_War_2017_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Call_of_the_Wild_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Call of the Wild
+http://vvn.neoredi.com/vod/The_Call_of_the_Wild_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Sonic_The_Hedgehog_2020_FR.mp4.png" group-title="NeoTV VOD FR",Sonic The Hedgehog
+http://vvn.neoredi.com/vod/Sonic_The_Hedgehog_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Proxima_2019_FR.mp4.png" group-title="NeoTV VOD FR",Proxima
+http://vvn.neoredi.com/vod/Proxima_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Papi_Sitter_2020_FR.mp4.png" group-title="NeoTV VOD FR",Papi Sitter
+http://vvn.neoredi.com/vod/Papi_Sitter_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Bad_Boys_for_Life_2020_FR.mp4.png" group-title="NeoTV VOD FR",Bad Boys for Life
+http://vvn.neoredi.com/vod/Bad_Boys_for_Life_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Vivarium_2019_FR.mp4.png" group-title="NeoTV VOD FR",Vivarium
+http://vvn.neoredi.com/vod/Vivarium_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Why_Dont_You_Just_Die_2018_FR.mp4.png" group-title="NeoTV VOD FR",Why Dont You Just Die
+http://vvn.neoredi.com/vod/Why_Dont_You_Just_Die_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Uncorked_2020_FR.mp4.png" group-title="NeoTV VOD FR",Uncorked
+http://vvn.neoredi.com/vod/Uncorked_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Little_Women_2019_FR.mp4.png" group-title="NeoTV VOD FR",Little Women
+http://vvn.neoredi.com/vod/Little_Women_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Jusqu_au_Déclin_2020_FR.mp4.png" group-title="NeoTV VOD FR",Jusqu au Déclin
+http://vvn.neoredi.com/vod/Jusqu_au_Déclin_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Furie_2019_FR.mp4.png" group-title="NeoTV VOD FR",Furie
+http://vvn.neoredi.com/vod/Furie_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Downhill_2020_FR.mp4.png" group-title="NeoTV VOD FR",Downhill
+http://vvn.neoredi.com/vod/Downhill_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Invisible_Man_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Invisible Man
+http://vvn.neoredi.com/vod/The_Invisible_Man_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Trauma_Center_2019_FR.mp4.png" group-title="NeoTV VOD FR",Trauma Center
+http://vvn.neoredi.com/vod/Trauma_Center_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Occupant_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Occupant
+http://vvn.neoredi.com/vod/The_Occupant_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Courier_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Courier
+http://vvn.neoredi.com/vod/The_Courier_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Battle_Of_Jangsari_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Battle Of Jangsari
+http://vvn.neoredi.com/vod/The_Battle_Of_Jangsari_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/So_Long_My_Son_2019_FR.mp4.png" group-title="NeoTV VOD FR",So Long My Son
+http://vvn.neoredi.com/vod/So_Long_My_Son_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Place_Des_Victoires_2019_FR.mp4.png" group-title="NeoTV VOD FR",Place Des Victoires
+http://vvn.neoredi.com/vod/Place_Des_Victoires_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Lucky_2020_FR.mp4.png" group-title="NeoTV VOD FR",Lucky
+http://vvn.neoredi.com/vod/Lucky_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Joyeuse_Retraite_2019_FR.mp4.png" group-title="NeoTV VOD FR",Joyeuse Retraite
+http://vvn.neoredi.com/vod/Joyeuse_Retraite_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Jouliks_2019_FR.mp4.png" group-title="NeoTV VOD FR",Jouliks
+http://vvn.neoredi.com/vod/Jouliks_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Donnybrook_2018_FR.mp4.png" group-title="NeoTV VOD FR",Donnybrook
+http://vvn.neoredi.com/vod/Donnybrook_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Dolittle_2020_FR.mp4.png" group-title="NeoTV VOD FR",Dolittle
+http://vvn.neoredi.com/vod/Dolittle_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Curtiz_2018_FR.mp4.png" group-title="NeoTV VOD FR",Curtiz
+http://vvn.neoredi.com/vod/Curtiz_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Charlie_Says_2018_FR.mp4.png" group-title="NeoTV VOD FR",Charlie Says
+http://vvn.neoredi.com/vod/Charlie_Says_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Adults_in_The_Room_2019_FR.mp4.png" group-title="NeoTV VOD FR",Adults in The Room
+http://vvn.neoredi.com/vod/Adults_in_The_Room_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Underverden_2017_FR.mp4.png" group-title="NeoTV VOD FR",Underverden
+http://vvn.neoredi.com/vod/Underverden_2017_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ultras_2020_FR.mp4.png" group-title="NeoTV VOD FR",Ultras
+http://vvn.neoredi.com/vod/Ultras_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Platform_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Platform
+http://vvn.neoredi.com/vod/The_Platform_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Parts_You_Lose_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Parts You Lose
+http://vvn.neoredi.com/vod/The_Parts_You_Lose_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Banker_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Banker
+http://vvn.neoredi.com/vod/The_Banker_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Assent_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Assent
+http://vvn.neoredi.com/vod/The_Assent_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Les_Miserables_2019_FR.mp4.png" group-title="NeoTV VOD FR",Les Miserables
+http://vvn.neoredi.com/vod/Les_Miserables_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Just_Mercy_2019_FR.mp4.png" group-title="NeoTV VOD FR",Just Mercy
+http://vvn.neoredi.com/vod/Just_Mercy_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Bloodshot_2020_FR.mp4.png" group-title="NeoTV VOD FR",Bloodshot
+http://vvn.neoredi.com/vod/Bloodshot_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Birds_of_Prey_2020_FR.mp4.png" group-title="NeoTV VOD FR",Birds of Prey
+http://vvn.neoredi.com/vod/Birds_of_Prey_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Acusada_2019_FR.mp4.png" group-title="NeoTV VOD FR",Acusada
+http://vvn.neoredi.com/vod/Acusada_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Guns_Akimbo_2019_FR.mp4.png" group-title="NeoTV VOD FR",Guns Akimbo
+http://vvn.neoredi.com/vod/Guns_Akimbo_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Fahim_2019_FR.mp4.png" group-title="NeoTV VOD FR",Fahim
+http://vvn.neoredi.com/vod/Fahim_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Cats_2019_FR.mp4.png" group-title="NeoTV VOD FR",Cats
+http://vvn.neoredi.com/vod/Cats_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Blow_the_Man_Down_2019_FR.mp4.png" group-title="NeoTV VOD FR",Blow the Man Down
+http://vvn.neoredi.com/vod/Blow_the_Man_Down_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Bloodline_2018_FR.mp4.png" group-title="NeoTV VOD FR",Bloodline
+http://vvn.neoredi.com/vod/Bloodline_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/A_Million_Little_Pieces_2018_FR.mp4.png" group-title="NeoTV VOD FR",A Million Little Pieces
+http://vvn.neoredi.com/vod/A_Million_Little_Pieces_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/After_The_Wedding_2019_FR.mp4.png" group-title="NeoTV VOD FR",After The Wedding
+http://vvn.neoredi.com/vod/After_The_Wedding_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Le_bon_la_brute_et_le_truand_FR.mp4.png" group-title="NeoTV VOD FR",Le bon la brute et le truand
+http://vvn.neoredi.com/vod/Le_bon_la_brute_et_le_truand_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Informer_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Informer
+http://vvn.neoredi.com/vod/The_Informer_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Hole_In_The_Ground_2019_FR.mp4.png" group-title="NeoTV VOD FR",The Hole In The Ground
+http://vvn.neoredi.com/vod/The_Hole_In_The_Ground_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Stargirl_2020_FR.mp4.png" group-title="NeoTV VOD FR",Stargirl
+http://vvn.neoredi.com/vod/Stargirl_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Palm_Bea_2019_FR.mp4.png" group-title="NeoTV VOD FR",Palm Beach
+http://vvn.neoredi.com/vod/Palm_Beach_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Lost_Girls_2020_FR.mp4.png" group-title="NeoTV VOD FR",Lost Girls
+http://vvn.neoredi.com/vod/Lost_Girls_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Verite_2019_FR.mp4.png" group-title="NeoTV VOD FR",La Verite
+http://vvn.neoredi.com/vod/La_Verite_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Gogol_Strashnaya_Mest_2018_FR.mp4.png" group-title="NeoTV VOD FR",Gogol Strashnaya Mest
+http://vvn.neoredi.com/vod/Gogol_Strashnaya_Mest_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Bad_Guys_The_Movie_2019_FR.mp4.png" group-title="NeoTV VOD FR",Bad Guys The Movie
+http://vvn.neoredi.com/vod/Bad_Guys_The_Movie_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Star_Wars_Episode_IX_The_Rise_2020_FR.mp4.png" group-title="NeoTV VOD FR",Star Wars Episode IX
+http://vvn.neoredi.com/vod/Star_Wars_Episode_IX_The_Rise_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Sorry_We_Missed_You_2019_FR.mp4.png" group-title="NeoTV VOD FR",Sorry We Missed You
+http://vvn.neoredi.com/vod/Sorry_We_Missed_You_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Les_Petits_Flocons_2019_FR.mp4.png" group-title="NeoTV VOD FR",Les Petits Flocons
+http://vvn.neoredi.com/vod/Les_Petits_Flocons_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Go_Karts_2020_FR.mp4.png" group-title="NeoTV VOD FR",Go Karts
+http://vvn.neoredi.com/vod/Go_Karts_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Gogol_Viy_2018_FR.mp4.png" group-title="NeoTV VOD FR",Gogol Viy
+http://vvn.neoredi.com/vod/Gogol_Viy_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Gulliver_s_Travels_fr.mp4.png" group-title="NeoTV VOD FR",Gulliver s Travels
+http://vvn.neoredi.com/vod/Gulliver_s_Travels_fr.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Grudge_2020_FR.mp4.png" group-title="NeoTV VOD FR",The Grudge
+http://vvn.neoredi.com/vod/The_Grudge_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Spenser_Confidential_2020_FR.mp4.png" group-title="NeoTV VOD FR",Spenser Confidential
+http://vvn.neoredi.com/vod/Spenser_Confidential_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Official_Secrets_2019_FR.mp4.png" group-title="NeoTV VOD FR",Official Secrets
+http://vvn.neoredi.com/vod/Official_Secrets_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Merci_Pour_Tout_2019_FR.mp4.png" group-title="NeoTV VOD FR",Merci Pour Tout
+http://vvn.neoredi.com/vod/Merci_Pour_Tout_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Verite_Si_Je_Mens_Les_Debuts_2019_FR.mp4.png" group-title="NeoTV VOD FR",La Verite Si Je Mens Les Debuts
+http://vvn.neoredi.com/vod/La_Verite_Si_Je_Mens_Les_Debuts_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/La_Belle_Epoque_2019_FR.mp4.png" group-title="NeoTV VOD FR",La Belle Epoque
+http://vvn.neoredi.com/vod/La_Belle_Epoque_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Il_Traditore_2019_FR.mp4.png" group-title="NeoTV VOD FR",Il Traditore
+http://vvn.neoredi.com/vod/Il_Traditore_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Good_Sam_2019_FR.mp4.png" group-title="NeoTV VOD FR",Good Sam
+http://vvn.neoredi.com/vod/Good_Sam_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Evil_Boy_2019_FR.mp4.png" group-title="NeoTV VOD FR",Evil Boy
+http://vvn.neoredi.com/vod/Evil_Boy_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Escape_From_Pretoria_2020_FR.mp4.png" group-title="NeoTV VOD FR",Escape From Pretoria
+http://vvn.neoredi.com/vod/Escape_From_Pretoria_2020_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/De_Dirigent_2018_FR.mp4.png" group-title="NeoTV VOD FR",De Dirigent
+http://vvn.neoredi.com/vod/De_Dirigent_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Daughter_Of_The_Wolf_2019_FR.mp4.png" group-title="NeoTV VOD FR",Daughter Of The Wolf
+http://vvn.neoredi.com/vod/Daughter_Of_The_Wolf_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Darkest_Minds_2018_FR.mp4.png" group-title="NeoTV VOD FR",Darkest Minds
+http://vvn.neoredi.com/vod/Darkest_Minds_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Contagion_fr.mp4.png" group-title="NeoTV VOD FR",Contagion
+http://vvn.neoredi.com/vod/Contagion_fr.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Aniara_2018_FR.mp4.png" group-title="NeoTV VOD FR",Aniara
+http://vvn.neoredi.com/vod/Aniara_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Black_Christmas_2019_FR.mp4.png" group-title="NeoTV VOD FR",Black Christmas
+http://vvn.neoredi.com/vod/Black_Christmas_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Altamira_2016_FR.mp4.png" group-title="NeoTV VOD FR",Altamira
+http://vvn.neoredi.com/vod/Altamira_2016_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Accuse_2019_FR.mp4.png" group-title="NeoTV VOD FR",Accuse
+http://vvn.neoredi.com/vod/Accuse_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Abgesnitten_2018_FR.mp4.png" group-title="NeoTV VOD FR",Abgeschnitten
+http://vvn.neoredi.com/vod/Abgeschnitten_2018_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/1917_2019_FR.mp4.png" group-title="NeoTV VOD FR",1917
+http://vvn.neoredi.com/vod/1917_2019_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Les_Dents_de_la_Mer_1_FR.mp4.png" group-title="NeoTV VOD FR",Les Dents de la Mer 1
+http://vvn.neoredi.com/vod/Les_Dents_de_la_Mer_1_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Les_Dents_de_la_Mer_2_FR.mp4.png" group-title="NeoTV VOD FR",Les Dents de la Mer 2
+http://vvn.neoredi.com/vod/Les_Dents_de_la_Mer_2_FR.mp4?code=350151895081936&key=32300
+#EXTINF:0 group-title="French VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Un_Ange_2019_FR.mp4.png" group-title="NeoTV VOD FR",Un Ange
+http://vvn.neoredi.com/vod/Un_Ange_2019_FR.mp4?code=350151895081936&key=32300
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| ADDIK TV (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| ADDIK TV (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114388
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| ICI RDI (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| ICI RDI (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114389
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| ICI VANCOUVER (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| ICI VANCOUVER (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114390
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Disney La Chaine (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Disney La Chaine (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114391
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Teletoon (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Teletoon (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114392
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| BET HD (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| BET HD (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114393
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Francophonie 24 TV (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Francophonie 24 TV (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114394
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| CinePOP (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| CinePOP (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114395
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| METEO (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| METEO (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114396
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| MUSIQUE PLUS (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| MUSIQUE PLUS (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114397
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| MOI & CIE (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| MOI & CIE (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114398
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Montreal Greek TV (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Montreal Greek TV (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114399
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Meteo Media (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Meteo Media (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114400
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| MAX (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| MAX (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114401
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| La cha√Æne Disney (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| La cha√Æne Disney (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114402
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| LCN (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| LCN (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114403
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| PRISE (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| PRISE (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114404
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Prise 2 (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Prise 2 (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114405
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| RDI (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| RDI (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114406
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| RDS (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| RDS (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114407
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| RDS 2 (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| RDS 2 (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114408
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| RDS INFO (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| RDS INFO (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114409
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Rogers TV (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Rogers TV (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114410
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Series Plus (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Series Plus (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114411
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Series+ (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Series+ (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114412
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| SERIS (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| SERIS (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114413
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| EVASION (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| EVASION (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114414
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| CASA (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| CASA (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114415
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| ICI (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| ICI (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114416
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| EMCI TV (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| EMCI TV (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114417
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| History (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| History (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114418
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Disney Junior (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Disney Junior (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114419
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| C-PAC (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| C-PAC (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114420
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Disney La Chaine (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Disney La Chaine (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114421
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| FXX HD (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| FXX HD (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114422
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| La cha√Æne Disney (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| La cha√Æne Disney (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114423
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| CANAL VIE (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| CANAL VIE (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114424
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| NAT nal Savoir (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| NAT nal Savoir (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114425
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| MUSIQUE PLUS (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| MUSIQUE PLUS (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114426
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| MOI & CIE (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| MOI & CIE (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114427
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Montreal Greek TV (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Montreal Greek TV (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114428
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Meteo Media (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Meteo Media (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114429
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| MAX (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| MAX (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114430
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| La cha√Æne Disney (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| La cha√Æne Disney (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114431
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| LCN (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| LCN (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114432
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| VRAK TV (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| VRAK TV (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114433
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| UNIS TV (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| UNIS TV (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114434
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| VIE (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| VIE (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114435
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| TVA SPORTS (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| TVA SPORTS (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114436
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| TVA MONTREAL (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| TVA MONTREAL (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114437
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| TVA Gatineau (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| TVA Gatineau (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114438
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| TV5 Quebec (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| TV5 Quebec (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114439
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| TMN 1 (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| TMN 1 (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114440
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| TFO (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| TFO (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114441
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| TELE QUEBEC (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| TELE QUEBEC (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114442
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| TELEMAGINO (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| TELEMAGINO (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114443
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Teletoon (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Teletoon (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114444
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| YES TV (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| YES TV (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114445
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| WGN (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| WGN (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114446
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| ZESTE (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| ZESTE (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114447
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Z TELE (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Z TELE (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114448
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| YOOPA (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| YOOPA (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114449
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| SUPER ECRAN 1 (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| SUPER ECRAN 1 (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114450
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Super Ecran 3 (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Super Ecran 3 (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114451
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.A.| Super Ecran 4 (FR)" tvg-logo="" group-title="CANADA",|.CA.A.| Super Ecran 4 (FR)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/114452
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| addikTV HD" tvg-logo="" group-title="CANADA",|.CA.FR| addikTV HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111617
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Cable Public Affairs Channel HD" tvg-logo="" group-title="CANADA",|.CA.FR| Cable Public Affairs Channel HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111618
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Canal D HD" tvg-logo="" group-title="CANADA",|.CA.FR| Canal D HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111619
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Canal Vie HD" tvg-logo="" group-title="CANADA",|.CA.FR| Canal Vie HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111620
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| CANAL Z HD" tvg-logo="" group-title="CANADA",|.CA.FR| CANAL Z HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111621
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| CASA HD" tvg-logo="" group-title="CANADA",|.CA.FR| CASA HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111622
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| CGTN FranÁais" tvg-logo="" group-title="CANADA",|.CA.FR| CGTN FranÁais
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111623
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Cinepop HD" tvg-logo="" group-title="CANADA",|.CA.FR| Cinepop HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111624
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ELLE Fictions HD" tvg-logo="" group-title="CANADA",|.CA.FR| ELLE Fictions HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111625
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ES1 Canada" tvg-logo="" group-title="CANADA",|.CA.FR| ES1 Canada
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111626
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Euronews HD" tvg-logo="" group-title="CANADA",|.CA.FR| Euronews HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111627
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Evasion HD" tvg-logo="" group-title="CANADA",|.CA.FR| Evasion HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111628
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Feu de foyer HD" tvg-logo="" group-title="CANADA",|.CA.FR| Feu de foyer HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111629
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| France 24" tvg-logo="" group-title="CANADA",|.CA.FR| France 24
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111630
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Frissons TV HD" tvg-logo="" group-title="CANADA",|.CA.FR| Frissons TV HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111631
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Historia HD" tvg-logo="" group-title="CANADA",|.CA.FR| Historia HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111632
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI ARTV HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI ARTV HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111633
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI EXPLORA HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI EXPLORA HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111634
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Radio Canada Tele Moncton HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Radio Canada Tele Moncton HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111635
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Radio Canada Tele Vancouver HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Radio Canada Tele Vancouver HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111636
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Radio-Canada Tele Montreal HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Radio-Canada Tele Montreal HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111637
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Radio-Canada Tele Quebec HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Radio-Canada Tele Quebec HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111638
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Investigation HD" tvg-logo="" group-title="CANADA",|.CA.FR| Investigation HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111639
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| LCN HD" tvg-logo="" group-title="CANADA",|.CA.FR| LCN HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111640
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Ligue Nationale de Hockey 2" tvg-logo="" group-title="CANADA",|.CA.FR| Ligue Nationale de Hockey 2
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111641
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Ligue Nationale de Hockey 1" tvg-logo="" group-title="CANADA",|.CA.FR| Ligue Nationale de Hockey 1
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111642
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| MAX HD" tvg-logo="" group-title="CANADA",|.CA.FR| MAX HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111643
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Mezzo Live HD" tvg-logo="" group-title="CANADA",|.CA.FR| Mezzo Live HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111644
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| MOI&cie HD" tvg-logo="" group-title="CANADA",|.CA.FR| MOI&cie HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111645
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Natyf TV HD" tvg-logo="" group-title="CANADA",|.CA.FR| Natyf TV HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111646
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Prise2 HD" tvg-logo="" group-title="CANADA",|.CA.FR| Prise2 HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111647
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| RDS INFO" tvg-logo="" group-title="CANADA",|.CA.FR| RDS INFO
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111648
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| RDS HD" tvg-logo="" group-title="CANADA",|.CA.FR| RDS HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111649
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| RDS2 HD" tvg-logo="" group-title="CANADA",|.CA.FR| RDS2 HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111650
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Savoir Media" tvg-logo="" group-title="CANADA",|.CA.FR| Savoir Media
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111651
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Seasons HD" tvg-logo="" group-title="CANADA",|.CA.FR| Seasons HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111652
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Series+ HD" tvg-logo="" group-title="CANADA",|.CA.FR| Series+ HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111653
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| StudioCanal HD" tvg-logo="" group-title="CANADA",|.CA.FR| StudioCanal HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111654
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Super Ecran 1 HD" tvg-logo="" group-title="CANADA",|.CA.FR| Super Ecran 1 HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111655
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Super Ecran 2 HD" tvg-logo="" group-title="CANADA",|.CA.FR| Super Ecran 2 HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111656
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Super Ecran 3 HD" tvg-logo="" group-title="CANADA",|.CA.FR| Super Ecran 3 HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111657
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Super Ecran 4 HD" tvg-logo="" group-title="CANADA",|.CA.FR| Super Ecran 4 HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111658
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| TeleMag Quebec HD" tvg-logo="" group-title="CANADA",|.CA.FR| TeleMag Quebec HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111659
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Telemagino HD" tvg-logo="" group-title="CANADA",|.CA.FR| Telemagino HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111660
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Tele Quebec HD" tvg-logo="" group-title="CANADA",|.CA.FR| Tele Quebec HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111661
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Teletoon French HD" tvg-logo="" group-title="CANADA",|.CA.FR| Teletoon French HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111662
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| TVA" tvg-logo="" group-title="CANADA",|.CA.FR| TVA
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111663
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| TVA Quebec City HD" tvg-logo="" group-title="CANADA",|.CA.FR| TVA Quebec City HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111664
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| TVA Trois-Rivieres" tvg-logo="" group-title="CANADA",|.CA.FR| TVA Trois-Rivieres
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111665
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| V" tvg-logo="" group-title="CANADA",|.CA.FR| V
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111666
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| V Montreal HD" tvg-logo="" group-title="CANADA",|.CA.FR| V Montreal HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111667
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| V Quebec City HD" tvg-logo="" group-title="CANADA",|.CA.FR| V Quebec City HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111668
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| V Sherbrooke" tvg-logo="" group-title="CANADA",|.CA.FR| V Sherbrooke
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111669
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| V Trois-Rivieres" tvg-logo="" group-title="CANADA",|.CA.FR| V Trois-Rivieres
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111670
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Vrak HD" tvg-logo="" group-title="CANADA",|.CA.FR| Vrak HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111671
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Yoopa HD" tvg-logo="" group-title="CANADA",|.CA.FR| Yoopa HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111672
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Zeste HD" tvg-logo="" group-title="CANADA",|.CA.FR| Zeste HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111673
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| TVA Ouest HD" tvg-logo="" group-title="CANADA",|.CA.FR| TVA Ouest HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111674
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Vu! Tele a la Carte 1 HD" tvg-logo="" group-title="CANADA",|.CA.FR| Vu! Tele a la Carte 1 HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111675
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Vu! Tele a la Carte 2 HD" tvg-logo="" group-title="CANADA",|.CA.FR| Vu! Tele a la Carte 2 HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111676
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Vu! Tele a la Carte 3 HD" tvg-logo="" group-title="CANADA",|.CA.FR| Vu! Tele a la Carte 3 HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111677
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Vu! Tele a la Carte 4 HD" tvg-logo="" group-title="CANADA",|.CA.FR| Vu! Tele a la Carte 4 HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111678
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Vu! Tele a la Carte 5 HD" tvg-logo="" group-title="CANADA",|.CA.FR| Vu! Tele a la Carte 5 HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111679
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111680
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| AMI-tele HD" tvg-logo="" group-title="CANADA",|.CA.FR| AMI-tele HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111681
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Unis TV HD" tvg-logo="" group-title="CANADA",|.CA.FR| Unis TV HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111682
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| TVA Montreal HD" tvg-logo="" group-title="CANADA",|.CA.FR| TVA Montreal HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111683
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| TV5 Quebec HD" tvg-logo="" group-title="CANADA",|.CA.FR| TV5 Quebec HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111684
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| TFO HD" tvg-logo="" group-title="CANADA",|.CA.FR| TFO HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111685
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| CPAC" tvg-logo="" group-title="CANADA",|.CA.FR| CPAC
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111686
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI RDI HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI RDI HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111687
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| TVA Sports HD" tvg-logo="" group-title="CANADA",|.CA.FR| TVA Sports HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111688
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Disney La Chaine" tvg-logo="" group-title="CANADA",|.CA.FR| Disney La Chaine
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111689
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| Meteo Media" tvg-logo="" group-title="CANADA",|.CA.FR| Meteo Media
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111690
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| TVA Hull HD" tvg-logo="" group-title="CANADA",|.CA.FR| TVA Hull HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111691
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| TVA Sports 2 HD" tvg-logo="" group-title="CANADA",|.CA.FR| TVA Sports 2 HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111692
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Radio Tele Ottawa HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Radio Tele Ottawa HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111693
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele 2 HD (D)" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele 2 HD (D)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111694
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| NOOVO V-Tele HD" tvg-logo="" group-title="CANADA",|.CA.FR| NOOVO V-Tele HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111695
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| L'Assemblee nationale du Quebec HD (D)" tvg-logo="" group-title="CANADA",|.CA.FR| L'Assemblee nationale du Quebec HD (D)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111696
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele Acadie HD (D)" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele Acadie HD (D)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111697
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele Alberta HD (D)" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele Alberta HD (D)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111698
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele CB-Yukon HD (D)" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele CB-Yukon HD (D)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111699
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele Est-Quebec HD (D)" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele Est-Quebec HD (D)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111700
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele Estrie HD (D)" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele Estrie HD (D)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111701
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele Manitoba HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele Manitoba HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111702
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele Mauricie HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele Mauricie HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111703
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele Montreal HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele Montreal HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111704
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele Ontario HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele Ontario HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111705
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele Ottawa-Gatineau HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele Ottawa-Gatineau HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111706
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele Quebec HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele Quebec HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111707
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele Saguenay HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele Saguenay HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111708
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Tele Saskatchewan HD (D)" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Tele Saskatchewan HD (D)
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111709
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| TVA Carleton HD" tvg-logo="" group-title="CANADA",|.CA.FR| TVA Carleton HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111710
+#EXTINF:-1 tvg-id="" tvg-name="|.CA.FR| ICI Radio-Canada (TOR) HD" tvg-logo="" group-title="CANADA",|.CA.FR| ICI Radio-Canada (TOR) HD
+http://pro.viptvclub.com:25443/huguesdrummondvip/GOPYBU5GIF/111711
